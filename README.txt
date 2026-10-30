@@ -1,13 +1,7 @@
-Spanish Agent Adventure v4.0
+Spanish Agent Adventure — Cozy Edition v5.0
 
-NEW: Welcome/About, 25 mission briefings with 10 tappable pictures, mission-specific 10-question reviews, collectible stickers, searchable 250-word spoken glossary, favorites, missed-word practice, responsive iPad/iPhone sizing.
+Cozy pastel redesign plus Alphabet Academy (27 letters, tap-to-hear letters and example words, 10-question listening game). All 25 original missions, 250 words, quizzes, glossary, image replacements, and spreadsheet retained.
 
-INSTALL: Upload the contents of this folder to the root of your GitHub Pages site. Open Safari on iPad and refresh; if old code persists, remove the old Home Screen icon and reopen the published URL. Offline service worker version updated.
+Deploy the contents of this folder to GitHub Pages. Open in Safari on iPad/iPhone. If an older edition appears, close the home-screen app, reload the Safari website, and revisit. Browser speech needs an available Spanish voice and a user tap.
 
-IMAGES: To replace a default image, save a JPG in images/custom/ with the exact filename from Image_Inventory_250.xlsx (e.g. img_m1_1.jpg). Original default SVG remains as fallback.
-
-SPEECH: Uses browser speechSynthesis; requires user gesture and installed iOS Spanish voice. Actual iPad audio requires device testing.
-
-STICKERS: 7/10 on mission review earns the digital sticker. All progress stored locally.
-
-IMPORTANT: The emoji placeholders are not custom original drawings. Review every asset and content for rights and accuracy before commercial publication.
+The letter game and original app use device speech synthesis; no prerecorded audio is bundled. Device testing remains necessary.
