@@ -1,0 +1,1 @@
+{"name": "Spanish Agent Adventure", "short_name": "Spanish Agent", "start_url": "./", "display": "standalone", "background_color": "#fff9ed", "theme_color": "#334cbd", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]}
