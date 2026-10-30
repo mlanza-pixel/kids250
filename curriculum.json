@@ -1,0 +1,2114 @@
+[
+  {
+    "id": 1,
+    "title": "Hello & Goodbye",
+    "icon": "🌷",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "M01S01",
+        "es": "Hola",
+        "en": "Hello",
+        "emoji": "👋",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M01S02",
+        "es": "Adiós",
+        "en": "Goodbye",
+        "emoji": "👋",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M01S03",
+        "es": "Buenos días",
+        "en": "Good morning",
+        "emoji": "🌅",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S04",
+        "es": "Buenas tardes",
+        "en": "Good afternoon",
+        "emoji": "🌤️",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S05",
+        "es": "Buenas noches",
+        "en": "Good night",
+        "emoji": "🌙",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S06",
+        "es": "Hasta luego",
+        "en": "See you later",
+        "emoji": "🚶",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S07",
+        "es": "Hasta mañana",
+        "en": "See you tomorrow",
+        "emoji": "🏫",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S08",
+        "es": "¿Cómo estás?",
+        "en": "How are you?",
+        "emoji": "😊",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S09",
+        "es": "Estoy bien",
+        "en": "I am well",
+        "emoji": "🙂",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M01S10",
+        "es": "Mucho gusto",
+        "en": "Nice to meet you",
+        "emoji": "🤝",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Please & Thank You",
+    "icon": "🐰",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "M02S01",
+        "es": "Por favor",
+        "en": "Please",
+        "emoji": "🙏",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M02S02",
+        "es": "Gracias",
+        "en": "Thank you",
+        "emoji": "🎁",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M02S03",
+        "es": "De nada",
+        "en": "You are welcome",
+        "emoji": "🤗",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M02S04",
+        "es": "Perdón",
+        "en": "Excuse me",
+        "emoji": "🙇",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M02S05",
+        "es": "Lo siento",
+        "en": "I am sorry",
+        "emoji": "💗",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M02S06",
+        "es": "Con permiso",
+        "en": "Excuse me (passing)",
+        "emoji": "🚶",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M02S07",
+        "es": "Sí",
+        "en": "Yes",
+        "emoji": "👍",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M02S08",
+        "es": "No",
+        "en": "No",
+        "emoji": "👎",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M02S09",
+        "es": "Está bien",
+        "en": "It is okay",
+        "emoji": "👌",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M02S10",
+        "es": "Muchas gracias",
+        "en": "Thank you very much",
+        "emoji": "🌼",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "My Name & Friends",
+    "icon": "🦊",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "M03S01",
+        "es": "Me llamo…",
+        "en": "My name is…",
+        "emoji": "🪪",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S02",
+        "es": "¿Cómo te llamas?",
+        "en": "What is your name?",
+        "emoji": "❓",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S03",
+        "es": "Soy…",
+        "en": "I am…",
+        "emoji": "🙂",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M03S04",
+        "es": "Mi amigo",
+        "en": "My friend (boy)",
+        "emoji": "🧒",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S05",
+        "es": "Mi amiga",
+        "en": "My friend (girl)",
+        "emoji": "👧",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S06",
+        "es": "Vamos a jugar",
+        "en": "Let us play",
+        "emoji": "🪁",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S07",
+        "es": "Hola, amigo",
+        "en": "Hello, friend",
+        "emoji": "👋",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S08",
+        "es": "¿Quieres jugar?",
+        "en": "Do you want to play?",
+        "emoji": "🧸",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S09",
+        "es": "Aquí estoy",
+        "en": "Here I am",
+        "emoji": "🙋",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M03S10",
+        "es": "Nos vemos",
+        "en": "See you",
+        "emoji": "🌈",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "My Family",
+    "icon": "🏡",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "M04S01",
+        "es": "Mamá",
+        "en": "Mom",
+        "emoji": "👩",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S02",
+        "es": "Papá",
+        "en": "Dad",
+        "emoji": "👨",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S03",
+        "es": "Hermano",
+        "en": "Brother",
+        "emoji": "👦",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S04",
+        "es": "Hermana",
+        "en": "Sister",
+        "emoji": "👧",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S05",
+        "es": "Abuela",
+        "en": "Grandma",
+        "emoji": "👵",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S06",
+        "es": "Abuelo",
+        "en": "Grandpa",
+        "emoji": "👴",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S07",
+        "es": "Bebé",
+        "en": "Baby",
+        "emoji": "👶",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S08",
+        "es": "Familia",
+        "en": "Family",
+        "emoji": "👨‍👩‍👧‍👦",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S09",
+        "es": "Tía",
+        "en": "Aunt",
+        "emoji": "👩",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M04S10",
+        "es": "Tío",
+        "en": "Uncle",
+        "emoji": "👨",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "My Feelings",
+    "icon": "💗",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "M05S01",
+        "es": "Feliz",
+        "en": "Happy",
+        "emoji": "😄",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S02",
+        "es": "Triste",
+        "en": "Sad",
+        "emoji": "😢",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S03",
+        "es": "Cansado",
+        "en": "Tired",
+        "emoji": "🥱",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S04",
+        "es": "Enojado",
+        "en": "Angry",
+        "emoji": "😠",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S05",
+        "es": "Asustado",
+        "en": "Scared",
+        "emoji": "😨",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S06",
+        "es": "Emocionado",
+        "en": "Excited",
+        "emoji": "🤩",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M05S07",
+        "es": "Tengo hambre",
+        "en": "I am hungry",
+        "emoji": "🍽️",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M05S08",
+        "es": "Tengo sed",
+        "en": "I am thirsty",
+        "emoji": "💧",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M05S09",
+        "es": "Tengo sueño",
+        "en": "I am sleepy",
+        "emoji": "🛌",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M05S10",
+        "es": "Estoy bien",
+        "en": "I feel okay",
+        "emoji": "🙂",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Numbers 1–10",
+    "icon": "🔢",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "M06S01",
+        "es": "Uno",
+        "en": "One",
+        "emoji": "1️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S02",
+        "es": "Dos",
+        "en": "Two",
+        "emoji": "2️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S03",
+        "es": "Tres",
+        "en": "Three",
+        "emoji": "3️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S04",
+        "es": "Cuatro",
+        "en": "Four",
+        "emoji": "4️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S05",
+        "es": "Cinco",
+        "en": "Five",
+        "emoji": "5️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S06",
+        "es": "Seis",
+        "en": "Six",
+        "emoji": "6️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S07",
+        "es": "Siete",
+        "en": "Seven",
+        "emoji": "7️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S08",
+        "es": "Ocho",
+        "en": "Eight",
+        "emoji": "8️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S09",
+        "es": "Nueve",
+        "en": "Nine",
+        "emoji": "9️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M06S10",
+        "es": "Diez",
+        "en": "Ten",
+        "emoji": "🔟",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Colors",
+    "icon": "🎨",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "M07S01",
+        "es": "Rojo",
+        "en": "Red",
+        "emoji": "🔴",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S02",
+        "es": "Azul",
+        "en": "Blue",
+        "emoji": "🔵",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S03",
+        "es": "Amarillo",
+        "en": "Yellow",
+        "emoji": "🟡",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S04",
+        "es": "Verde",
+        "en": "Green",
+        "emoji": "🟢",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S05",
+        "es": "Naranja",
+        "en": "Orange",
+        "emoji": "🟠",
+        "originalFile": "img_m6_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M07S06",
+        "es": "Morado",
+        "en": "Purple",
+        "emoji": "🟣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S07",
+        "es": "Rosa",
+        "en": "Pink",
+        "emoji": "🌸",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S08",
+        "es": "Blanco",
+        "en": "White",
+        "emoji": "⚪",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S09",
+        "es": "Negro",
+        "en": "Black",
+        "emoji": "⚫",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M07S10",
+        "es": "Marrón",
+        "en": "Brown",
+        "emoji": "🟤",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "My Body",
+    "icon": "🧸",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "M08S01",
+        "es": "Cabeza",
+        "en": "Head",
+        "emoji": "🙂",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S02",
+        "es": "Ojos",
+        "en": "Eyes",
+        "emoji": "👀",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S03",
+        "es": "Nariz",
+        "en": "Nose",
+        "emoji": "👃",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S04",
+        "es": "Boca",
+        "en": "Mouth",
+        "emoji": "👄",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S05",
+        "es": "Orejas",
+        "en": "Ears",
+        "emoji": "👂",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S06",
+        "es": "Manos",
+        "en": "Hands",
+        "emoji": "🙌",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S07",
+        "es": "Pies",
+        "en": "Feet",
+        "emoji": "🦶",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S08",
+        "es": "Brazos",
+        "en": "Arms",
+        "emoji": "💪",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S09",
+        "es": "Piernas",
+        "en": "Legs",
+        "emoji": "🦵",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M08S10",
+        "es": "Dientes",
+        "en": "Teeth",
+        "emoji": "🦷",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "My Home",
+    "icon": "🏠",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "M09S01",
+        "es": "Casa",
+        "en": "House",
+        "emoji": "🏠",
+        "originalFile": "img_m25_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S02",
+        "es": "Puerta",
+        "en": "Door",
+        "emoji": "🚪",
+        "originalFile": "img_m10_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S03",
+        "es": "Ventana",
+        "en": "Window",
+        "emoji": "🪟",
+        "originalFile": "img_m10_7.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S04",
+        "es": "Cama",
+        "en": "Bed",
+        "emoji": "🛏️",
+        "originalFile": "img_m10_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S05",
+        "es": "Mesa",
+        "en": "Table",
+        "emoji": "🪑",
+        "originalFile": "img_m11_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S06",
+        "es": "Silla",
+        "en": "Chair",
+        "emoji": "🪑",
+        "originalFile": "img_m11_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M09S07",
+        "es": "Lámpara",
+        "en": "Lamp",
+        "emoji": "💡",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M09S08",
+        "es": "Sofá",
+        "en": "Sofa",
+        "emoji": "🛋️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M09S09",
+        "es": "Baño",
+        "en": "Bathroom",
+        "emoji": "🚽",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M09S10",
+        "es": "Cocina",
+        "en": "Kitchen",
+        "emoji": "🍳",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Food & Drinks",
+    "icon": "🍎",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "M10S01",
+        "es": "Agua",
+        "en": "Water",
+        "emoji": "💧",
+        "originalFile": "img_m8_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S02",
+        "es": "Leche",
+        "en": "Milk",
+        "emoji": "🥛",
+        "originalFile": "img_m8_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S03",
+        "es": "Pan",
+        "en": "Bread",
+        "emoji": "🍞",
+        "originalFile": "img_m8_9.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S04",
+        "es": "Manzana",
+        "en": "Apple",
+        "emoji": "🍎",
+        "originalFile": "img_m6_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S05",
+        "es": "Plátano",
+        "en": "Banana",
+        "emoji": "🍌",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M10S06",
+        "es": "Queso",
+        "en": "Cheese",
+        "emoji": "🧀",
+        "originalFile": "img_m8_10.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S07",
+        "es": "Huevo",
+        "en": "Egg",
+        "emoji": "🥚",
+        "originalFile": "img_m9_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S08",
+        "es": "Jugo",
+        "en": "Juice",
+        "emoji": "🧃",
+        "originalFile": "img_m8_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S09",
+        "es": "Helado",
+        "en": "Ice cream",
+        "emoji": "🍦",
+        "originalFile": "img_m8_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M10S10",
+        "es": "Brócoli",
+        "en": "Broccoli",
+        "emoji": "🥦",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Clothes",
+    "icon": "🧥",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "M11S01",
+        "es": "Camisa",
+        "en": "Shirt",
+        "emoji": "👕",
+        "originalFile": "img_m14_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S02",
+        "es": "Pantalones",
+        "en": "Pants",
+        "emoji": "👖",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M11S03",
+        "es": "Vestido",
+        "en": "Dress",
+        "emoji": "👗",
+        "originalFile": "img_m14_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S04",
+        "es": "Zapato",
+        "en": "Shoe",
+        "emoji": "👟",
+        "originalFile": "img_m15_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S05",
+        "es": "Calcetines",
+        "en": "Socks",
+        "emoji": "🧦",
+        "originalFile": "img_m14_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S06",
+        "es": "Abrigo",
+        "en": "Coat",
+        "emoji": "🧥",
+        "originalFile": "img_m14_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S07",
+        "es": "Sombrero",
+        "en": "Hat",
+        "emoji": "👒",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M11S08",
+        "es": "Falda",
+        "en": "Skirt",
+        "emoji": "👗",
+        "originalFile": "img_m14_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M11S09",
+        "es": "Botas",
+        "en": "Boots",
+        "emoji": "🥾",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M11S10",
+        "es": "Bufanda",
+        "en": "Scarf",
+        "emoji": "🧣",
+        "originalFile": "img_m14_10.jpg",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "School & Play",
+    "icon": "📚",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "M12S01",
+        "es": "Escuela",
+        "en": "School",
+        "emoji": "🏫",
+        "originalFile": "img_m23_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S02",
+        "es": "Libro",
+        "en": "Book",
+        "emoji": "📖",
+        "originalFile": "img_m13_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S03",
+        "es": "Lápiz",
+        "en": "Pencil",
+        "emoji": "✏️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M12S04",
+        "es": "Papel",
+        "en": "Paper",
+        "emoji": "📄",
+        "originalFile": "img_m12_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S05",
+        "es": "Mochila",
+        "en": "Backpack",
+        "emoji": "🎒",
+        "originalFile": "img_m15_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S06",
+        "es": "Pelota",
+        "en": "Ball",
+        "emoji": "⚽",
+        "originalFile": "img_m13_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S07",
+        "es": "Muñeca",
+        "en": "Doll",
+        "emoji": "🪆",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M12S08",
+        "es": "Columpio",
+        "en": "Swing",
+        "emoji": "🛝",
+        "originalFile": "img_m19_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M12S09",
+        "es": "Jugar",
+        "en": "To play",
+        "emoji": "🎲",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M12S10",
+        "es": "Dibujar",
+        "en": "To draw",
+        "emoji": "🖍️",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pets",
+    "icon": "🐶",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "M13S01",
+        "es": "Perro",
+        "en": "Dog",
+        "emoji": "🐶",
+        "originalFile": "img_m1_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S02",
+        "es": "Gato",
+        "en": "Cat",
+        "emoji": "🐱",
+        "originalFile": "img_m1_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S03",
+        "es": "Pez",
+        "en": "Fish",
+        "emoji": "🐟",
+        "originalFile": "img_m1_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S04",
+        "es": "Pájaro",
+        "en": "Bird",
+        "emoji": "🐦",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M13S05",
+        "es": "Conejo",
+        "en": "Rabbit",
+        "emoji": "🐰",
+        "originalFile": "img_m1_5.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S06",
+        "es": "Hámster",
+        "en": "Hamster",
+        "emoji": "🐹",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M13S07",
+        "es": "Tortuga",
+        "en": "Turtle",
+        "emoji": "🐢",
+        "originalFile": "img_m1_7.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S08",
+        "es": "Caballo",
+        "en": "Horse",
+        "emoji": "🐴",
+        "originalFile": "img_m1_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S09",
+        "es": "Loro",
+        "en": "Parrot",
+        "emoji": "🦜",
+        "originalFile": "img_m1_9.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M13S10",
+        "es": "Ratón",
+        "en": "Mouse",
+        "emoji": "🐭",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Farm Animals",
+    "icon": "🐮",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "M14S01",
+        "es": "Vaca",
+        "en": "Cow",
+        "emoji": "🐮",
+        "originalFile": "img_m2_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S02",
+        "es": "Cerdo",
+        "en": "Pig",
+        "emoji": "🐷",
+        "originalFile": "img_m2_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S03",
+        "es": "Oveja",
+        "en": "Sheep",
+        "emoji": "🐑",
+        "originalFile": "img_m2_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S04",
+        "es": "Gallina",
+        "en": "Hen",
+        "emoji": "🐔",
+        "originalFile": "img_m2_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S05",
+        "es": "Pato",
+        "en": "Duck",
+        "emoji": "🦆",
+        "originalFile": "img_m2_5.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S06",
+        "es": "Cabra",
+        "en": "Goat",
+        "emoji": "🐐",
+        "originalFile": "img_m2_7.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S07",
+        "es": "Burro",
+        "en": "Donkey",
+        "emoji": "🫏",
+        "originalFile": "img_m2_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S08",
+        "es": "Gallo",
+        "en": "Rooster",
+        "emoji": "🐓",
+        "originalFile": "img_m2_9.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S09",
+        "es": "Caballo",
+        "en": "Horse",
+        "emoji": "🐴",
+        "originalFile": "img_m1_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M14S10",
+        "es": "Pollito",
+        "en": "Chick",
+        "emoji": "🐤",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Wild Animals",
+    "icon": "🦁",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "M15S01",
+        "es": "León",
+        "en": "Lion",
+        "emoji": "🦁",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M15S02",
+        "es": "Tigre",
+        "en": "Tiger",
+        "emoji": "🐯",
+        "originalFile": "img_m3_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S03",
+        "es": "Elefante",
+        "en": "Elephant",
+        "emoji": "🐘",
+        "originalFile": "img_m3_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S04",
+        "es": "Jirafa",
+        "en": "Giraffe",
+        "emoji": "🦒",
+        "originalFile": "img_m3_5.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S05",
+        "es": "Cebra",
+        "en": "Zebra",
+        "emoji": "🦓",
+        "originalFile": "img_m3_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S06",
+        "es": "Oso",
+        "en": "Bear",
+        "emoji": "🐻",
+        "originalFile": "img_m3_7.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S07",
+        "es": "Mono",
+        "en": "Monkey",
+        "emoji": "🐒",
+        "originalFile": "img_m3_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S08",
+        "es": "Zorro",
+        "en": "Fox",
+        "emoji": "🦊",
+        "originalFile": "img_m3_9.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S09",
+        "es": "Lobo",
+        "en": "Wolf",
+        "emoji": "🐺",
+        "originalFile": "img_m3_8.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M15S10",
+        "es": "Panda",
+        "en": "Panda",
+        "emoji": "🐼",
+        "originalFile": "img_m3_10.jpg",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Nature",
+    "icon": "🌳",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "M16S01",
+        "es": "Árbol",
+        "en": "Tree",
+        "emoji": "🌳",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M16S02",
+        "es": "Flor",
+        "en": "Flower",
+        "emoji": "🌸",
+        "originalFile": "img_m19_7.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M16S03",
+        "es": "Hoja",
+        "en": "Leaf",
+        "emoji": "🍃",
+        "originalFile": "img_m21_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M16S04",
+        "es": "Bosque",
+        "en": "Forest",
+        "emoji": "🌲",
+        "originalFile": "img_m21_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M16S05",
+        "es": "Montaña",
+        "en": "Mountain",
+        "emoji": "🏔️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M16S06",
+        "es": "Río",
+        "en": "River",
+        "emoji": "🏞️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M16S07",
+        "es": "Lago",
+        "en": "Lake",
+        "emoji": "🏞️",
+        "originalFile": "img_m21_9.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M16S08",
+        "es": "Piedra",
+        "en": "Rock",
+        "emoji": "🪨",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M16S09",
+        "es": "Hierba",
+        "en": "Grass",
+        "emoji": "🌱",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M16S10",
+        "es": "Mar",
+        "en": "Sea",
+        "emoji": "🌊",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Weather",
+    "icon": "☀️",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "M17S01",
+        "es": "Sol",
+        "en": "Sun",
+        "emoji": "☀️",
+        "originalFile": "img_m20_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S02",
+        "es": "Luna",
+        "en": "Moon",
+        "emoji": "🌙",
+        "originalFile": "img_m22_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S03",
+        "es": "Nube",
+        "en": "Cloud",
+        "emoji": "☁️",
+        "originalFile": "img_m22_3.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S04",
+        "es": "Lluvia",
+        "en": "Rain",
+        "emoji": "🌧️",
+        "originalFile": "img_m22_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S05",
+        "es": "Nieve",
+        "en": "Snow",
+        "emoji": "❄️",
+        "originalFile": "img_m22_5.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S06",
+        "es": "Viento",
+        "en": "Wind",
+        "emoji": "💨",
+        "originalFile": "img_m22_6.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M17S07",
+        "es": "Arcoíris",
+        "en": "Rainbow",
+        "emoji": "🌈",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M17S08",
+        "es": "Hace frío",
+        "en": "It is cold",
+        "emoji": "🥶",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M17S09",
+        "es": "Hace calor",
+        "en": "It is hot",
+        "emoji": "🥵",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M17S10",
+        "es": "Tormenta",
+        "en": "Storm",
+        "emoji": "⛈️",
+        "originalFile": "img_m22_7.jpg",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Getting Around",
+    "icon": "🚲",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "M18S01",
+        "es": "Coche",
+        "en": "Car",
+        "emoji": "🚗",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M18S02",
+        "es": "Autobús",
+        "en": "Bus",
+        "emoji": "🚌",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M18S03",
+        "es": "Tren",
+        "en": "Train",
+        "emoji": "🚆",
+        "originalFile": "img_m17_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M18S04",
+        "es": "Avión",
+        "en": "Airplane",
+        "emoji": "✈️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M18S05",
+        "es": "Barco",
+        "en": "Boat",
+        "emoji": "⛵",
+        "originalFile": "img_m17_2.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M18S06",
+        "es": "Bicicleta",
+        "en": "Bicycle",
+        "emoji": "🚲",
+        "originalFile": "img_m18_1.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M18S07",
+        "es": "Taxi",
+        "en": "Taxi",
+        "emoji": "🚕",
+        "originalFile": "img_m16_4.jpg",
+        "scene": "object"
+      },
+      {
+        "id": "M18S08",
+        "es": "Caminar",
+        "en": "To walk",
+        "emoji": "🚶",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M18S09",
+        "es": "Ir",
+        "en": "To go",
+        "emoji": "➡️",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M18S10",
+        "es": "Parar",
+        "en": "To stop",
+        "emoji": "🛑",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Days & Months",
+    "icon": "📅",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "M19S01",
+        "es": "Lunes",
+        "en": "Monday",
+        "emoji": "🌞",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S02",
+        "es": "Martes",
+        "en": "Tuesday",
+        "emoji": "🌷",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S03",
+        "es": "Miércoles",
+        "en": "Wednesday",
+        "emoji": "🌻",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S04",
+        "es": "Jueves",
+        "en": "Thursday",
+        "emoji": "🍀",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S05",
+        "es": "Viernes",
+        "en": "Friday",
+        "emoji": "🎉",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S06",
+        "es": "Sábado",
+        "en": "Saturday",
+        "emoji": "🪁",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S07",
+        "es": "Domingo",
+        "en": "Sunday",
+        "emoji": "🏡",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S08",
+        "es": "Hoy",
+        "en": "Today",
+        "emoji": "📅",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S09",
+        "es": "Mañana",
+        "en": "Tomorrow",
+        "emoji": "🌅",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M19S10",
+        "es": "Mes",
+        "en": "Month",
+        "emoji": "🗓️",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Numbers 11–20",
+    "icon": "🧮",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "M20S01",
+        "es": "Once",
+        "en": "Eleven",
+        "emoji": "1️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S02",
+        "es": "Doce",
+        "en": "Twelve",
+        "emoji": "2️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S03",
+        "es": "Trece",
+        "en": "Thirteen",
+        "emoji": "3️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S04",
+        "es": "Catorce",
+        "en": "Fourteen",
+        "emoji": "4️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S05",
+        "es": "Quince",
+        "en": "Fifteen",
+        "emoji": "5️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S06",
+        "es": "Dieciséis",
+        "en": "Sixteen",
+        "emoji": "6️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S07",
+        "es": "Diecisiete",
+        "en": "Seventeen",
+        "emoji": "7️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S08",
+        "es": "Dieciocho",
+        "en": "Eighteen",
+        "emoji": "8️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S09",
+        "es": "Diecinueve",
+        "en": "Nineteen",
+        "emoji": "9️⃣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M20S10",
+        "es": "Veinte",
+        "en": "Twenty",
+        "emoji": "🔟",
+        "originalFile": null,
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Telling Time",
+    "icon": "🕰️",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "M21S01",
+        "es": "¿Qué hora es?",
+        "en": "What time is it?",
+        "emoji": "❓",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S02",
+        "es": "Es la una",
+        "en": "It is one o’clock",
+        "emoji": "🕐",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S03",
+        "es": "Son las dos",
+        "en": "It is two o’clock",
+        "emoji": "🕑",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S04",
+        "es": "Son las tres",
+        "en": "It is three o’clock",
+        "emoji": "🕒",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S05",
+        "es": "Son las cuatro",
+        "en": "It is four o’clock",
+        "emoji": "🕓",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S06",
+        "es": "Son las cinco",
+        "en": "It is five o’clock",
+        "emoji": "🕔",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S07",
+        "es": "Y media",
+        "en": "Half past",
+        "emoji": "🕧",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S08",
+        "es": "Y cuarto",
+        "en": "Quarter past",
+        "emoji": "🕒",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S09",
+        "es": "Menos cuarto",
+        "en": "Quarter to",
+        "emoji": "🕘",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M21S10",
+        "es": "En punto",
+        "en": "On the hour",
+        "emoji": "⏰",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "My Daily Routine",
+    "icon": "🛏️",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "M22S01",
+        "es": "Me despierto",
+        "en": "I wake up",
+        "emoji": "🌅",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S02",
+        "es": "Me levanto",
+        "en": "I get up",
+        "emoji": "🛏️",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S03",
+        "es": "Desayuno",
+        "en": "I eat breakfast",
+        "emoji": "🥣",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M22S04",
+        "es": "Me lavo",
+        "en": "I wash",
+        "emoji": "🧼",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S05",
+        "es": "Me visto",
+        "en": "I get dressed",
+        "emoji": "👕",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S06",
+        "es": "Voy a la escuela",
+        "en": "I go to school",
+        "emoji": "🏫",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S07",
+        "es": "Juego",
+        "en": "I play",
+        "emoji": "🪁",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M22S08",
+        "es": "Ceno",
+        "en": "I eat dinner",
+        "emoji": "🍲",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M22S09",
+        "es": "Me cepillo los dientes",
+        "en": "I brush my teeth",
+        "emoji": "🪥",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M22S10",
+        "es": "Me duermo",
+        "en": "I fall asleep",
+        "emoji": "🌙",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Questions & Answers",
+    "icon": "❓",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "M23S01",
+        "es": "¿Qué?",
+        "en": "What?",
+        "emoji": "❓",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S02",
+        "es": "¿Quién?",
+        "en": "Who?",
+        "emoji": "👤",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S03",
+        "es": "¿Dónde?",
+        "en": "Where?",
+        "emoji": "📍",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S04",
+        "es": "¿Cuándo?",
+        "en": "When?",
+        "emoji": "📅",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S05",
+        "es": "¿Por qué?",
+        "en": "Why?",
+        "emoji": "🤔",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S06",
+        "es": "¿Cómo?",
+        "en": "How?",
+        "emoji": "🧩",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S07",
+        "es": "¿Cuánto?",
+        "en": "How much?",
+        "emoji": "🔢",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M23S08",
+        "es": "Aquí",
+        "en": "Here",
+        "emoji": "📍",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M23S09",
+        "es": "Allí",
+        "en": "There",
+        "emoji": "👉",
+        "originalFile": null,
+        "scene": "object"
+      },
+      {
+        "id": "M23S10",
+        "es": "No sé",
+        "en": "I do not know",
+        "emoji": "🤷",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Let’s Talk Spanish",
+    "icon": "💬",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "M24S01",
+        "es": "Hola, ¿cómo estás?",
+        "en": "Hello, how are you?",
+        "emoji": "👋",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S02",
+        "es": "Estoy muy bien",
+        "en": "I am very well",
+        "emoji": "😊",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S03",
+        "es": "¿Cómo te llamas?",
+        "en": "What is your name?",
+        "emoji": "🪪",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S04",
+        "es": "Me llamo Ana",
+        "en": "My name is Ana",
+        "emoji": "👧",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S05",
+        "es": "Tengo hambre",
+        "en": "I am hungry",
+        "emoji": "🍽️",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S06",
+        "es": "Quiero agua, por favor",
+        "en": "I want water, please",
+        "emoji": "🥛",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S07",
+        "es": "Gracias por ayudarme",
+        "en": "Thank you for helping me",
+        "emoji": "🤗",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S08",
+        "es": "¿Dónde está el baño?",
+        "en": "Where is the bathroom?",
+        "emoji": "🚪",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S09",
+        "es": "Me gusta jugar",
+        "en": "I like to play",
+        "emoji": "🪁",
+        "originalFile": null,
+        "scene": "phrase"
+      },
+      {
+        "id": "M24S10",
+        "es": "Hasta mañana",
+        "en": "See you tomorrow",
+        "emoji": "🌙",
+        "originalFile": null,
+        "scene": "phrase"
+      }
+    ]
+  }
+]
