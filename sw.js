@@ -1,0 +1,12 @@
+const CACHE='spanish-agent-v6-0-5';
+const CORE=['./','./index.html','./curriculum.json','./words.json','./release.json','./icon.svg','./manifest.webmanifest'];
+self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('spanish-agent-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',event=>{
+ const req=event.request;
+ if(req.method!=='GET'||new URL(req.url).origin!==self.location.origin)return;
+ const u=new URL(req.url);
+ const critical=['/','/index.html','/curriculum.json','/words.json','/release.json','/sw.js'].some(s=>u.pathname.endsWith(s));
+ if(critical){event.respondWith(fetch(req,{cache:'no-store'}).then(res=>{if(res.ok){const copy=res.clone();caches.open(CACHE).then(c=>c.put(req,copy))}return res}).catch(()=>caches.match(req).then(hit=>hit||caches.match(new Request(u.origin+u.pathname)))));return}
+ event.respondWith(caches.match(req).then(cached=>cached||fetch(req).then(res=>{if(res.ok){const copy=res.clone();caches.open(CACHE).then(c=>c.put(req,copy))}return res})));
+});
