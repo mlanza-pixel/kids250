@@ -1,0 +1,2002 @@
+[
+  {
+    "es": "perro",
+    "en": "dog",
+    "emoji": "📖",
+    "originalFile": "img_m1_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gato",
+    "en": "cat",
+    "emoji": "📖",
+    "originalFile": "img_m1_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pez",
+    "en": "fish",
+    "emoji": "📖",
+    "originalFile": "img_m1_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pajaro",
+    "en": "bird",
+    "emoji": "📖",
+    "originalFile": "img_m1_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "conejo",
+    "en": "rabbit",
+    "emoji": "📖",
+    "originalFile": "img_m1_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "hamster",
+    "en": "hamster",
+    "emoji": "📖",
+    "originalFile": "img_m1_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tortuga",
+    "en": "turtle",
+    "emoji": "📖",
+    "originalFile": "img_m1_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "caballo",
+    "en": "horse",
+    "emoji": "📖",
+    "originalFile": "img_m1_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "loro",
+    "en": "parrot",
+    "emoji": "📖",
+    "originalFile": "img_m1_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cobaya",
+    "en": "guinea pig",
+    "emoji": "📖",
+    "originalFile": "img_m1_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "vaca",
+    "en": "cow",
+    "emoji": "📖",
+    "originalFile": "img_m2_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cerdo",
+    "en": "pig",
+    "emoji": "📖",
+    "originalFile": "img_m2_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "oveja",
+    "en": "sheep",
+    "emoji": "📖",
+    "originalFile": "img_m2_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gallina",
+    "en": "hen",
+    "emoji": "📖",
+    "originalFile": "img_m2_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pato",
+    "en": "duck",
+    "emoji": "📖",
+    "originalFile": "img_m2_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ganso",
+    "en": "goose",
+    "emoji": "📖",
+    "originalFile": "img_m2_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cabra",
+    "en": "goat",
+    "emoji": "📖",
+    "originalFile": "img_m2_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "burro",
+    "en": "donkey",
+    "emoji": "📖",
+    "originalFile": "img_m2_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gallo",
+    "en": "rooster",
+    "emoji": "📖",
+    "originalFile": "img_m2_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mula",
+    "en": "mule",
+    "emoji": "📖",
+    "originalFile": "img_m2_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "leon",
+    "en": "lion",
+    "emoji": "📖",
+    "originalFile": "img_m3_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tigre",
+    "en": "tiger",
+    "emoji": "📖",
+    "originalFile": "img_m3_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mono",
+    "en": "monkey",
+    "emoji": "📖",
+    "originalFile": "img_m3_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "elefante",
+    "en": "elephant",
+    "emoji": "📖",
+    "originalFile": "img_m3_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "jirafa",
+    "en": "giraffe",
+    "emoji": "📖",
+    "originalFile": "img_m3_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cebra",
+    "en": "zebra",
+    "emoji": "📖",
+    "originalFile": "img_m3_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "oso",
+    "en": "bear",
+    "emoji": "📖",
+    "originalFile": "img_m3_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lobo",
+    "en": "wolf",
+    "emoji": "📖",
+    "originalFile": "img_m3_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "zorro",
+    "en": "fox",
+    "emoji": "📖",
+    "originalFile": "img_m3_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "panda",
+    "en": "panda",
+    "emoji": "📖",
+    "originalFile": "img_m3_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tiburon",
+    "en": "shark",
+    "emoji": "📖",
+    "originalFile": "img_m4_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ballena",
+    "en": "whale",
+    "emoji": "📖",
+    "originalFile": "img_m4_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "delfin",
+    "en": "dolphin",
+    "emoji": "📖",
+    "originalFile": "img_m4_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pulpo",
+    "en": "octopus",
+    "emoji": "📖",
+    "originalFile": "img_m4_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cangrejo",
+    "en": "crab",
+    "emoji": "📖",
+    "originalFile": "img_m4_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "estrella",
+    "en": "starfish",
+    "emoji": "📖",
+    "originalFile": "img_m4_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "foca",
+    "en": "seal",
+    "emoji": "📖",
+    "originalFile": "img_m4_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pinguino",
+    "en": "penguin",
+    "emoji": "📖",
+    "originalFile": "img_m4_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "medusa",
+    "en": "jellyfish",
+    "emoji": "📖",
+    "originalFile": "img_m4_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "camaron",
+    "en": "shrimp",
+    "emoji": "📖",
+    "originalFile": "img_m4_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mariposa",
+    "en": "butterfly",
+    "emoji": "📖",
+    "originalFile": "img_m5_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "abeja",
+    "en": "bee",
+    "emoji": "📖",
+    "originalFile": "img_m5_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "hormiga",
+    "en": "ant",
+    "emoji": "📖",
+    "originalFile": "img_m5_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mosca",
+    "en": "fly",
+    "emoji": "📖",
+    "originalFile": "img_m5_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mosquito",
+    "en": "mosquito",
+    "emoji": "📖",
+    "originalFile": "img_m5_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arana",
+    "en": "spider",
+    "emoji": "📖",
+    "originalFile": "img_m5_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "escarabajo",
+    "en": "beetle",
+    "emoji": "📖",
+    "originalFile": "img_m5_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "saltamontes",
+    "en": "grasshopper",
+    "emoji": "📖",
+    "originalFile": "img_m5_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "grillo",
+    "en": "cricket",
+    "emoji": "📖",
+    "originalFile": "img_m5_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ciempies",
+    "en": "centipede",
+    "emoji": "📖",
+    "originalFile": "img_m5_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "manzana",
+    "en": "apple",
+    "emoji": "📖",
+    "originalFile": "img_m6_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "platano",
+    "en": "banana",
+    "emoji": "📖",
+    "originalFile": "img_m6_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "naranja",
+    "en": "orange",
+    "emoji": "📖",
+    "originalFile": "img_m6_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "uvas",
+    "en": "grapes",
+    "emoji": "📖",
+    "originalFile": "img_m6_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "fresa",
+    "en": "strawberry",
+    "emoji": "📖",
+    "originalFile": "img_m6_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sandia",
+    "en": "watermelon",
+    "emoji": "📖",
+    "originalFile": "img_m6_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "melon",
+    "en": "melon",
+    "emoji": "📖",
+    "originalFile": "img_m6_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pina",
+    "en": "pineapple",
+    "emoji": "📖",
+    "originalFile": "img_m6_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pera",
+    "en": "pear",
+    "emoji": "📖",
+    "originalFile": "img_m6_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "limon",
+    "en": "lemon",
+    "emoji": "📖",
+    "originalFile": "img_m6_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "zanahoria",
+    "en": "carrot",
+    "emoji": "📖",
+    "originalFile": "img_m7_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tomate",
+    "en": "tomato",
+    "emoji": "📖",
+    "originalFile": "img_m7_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lechuga",
+    "en": "lettuce",
+    "emoji": "📖",
+    "originalFile": "img_m7_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cebolla",
+    "en": "onion",
+    "emoji": "📖",
+    "originalFile": "img_m7_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ajo",
+    "en": "garlic",
+    "emoji": "📖",
+    "originalFile": "img_m7_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "brocoli",
+    "en": "broccoli",
+    "emoji": "📖",
+    "originalFile": "img_m7_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "papa",
+    "en": "potato",
+    "emoji": "📖",
+    "originalFile": "img_m7_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pepino",
+    "en": "cucumber",
+    "emoji": "📖",
+    "originalFile": "img_m7_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "maiz",
+    "en": "corn",
+    "emoji": "📖",
+    "originalFile": "img_m7_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "chile",
+    "en": "chili pepper",
+    "emoji": "📖",
+    "originalFile": "img_m7_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "leche",
+    "en": "milk",
+    "emoji": "📖",
+    "originalFile": "img_m8_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "agua",
+    "en": "water",
+    "emoji": "📖",
+    "originalFile": "img_m8_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "jugo",
+    "en": "juice",
+    "emoji": "📖",
+    "originalFile": "img_m8_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pastel",
+    "en": "cake",
+    "emoji": "📖",
+    "originalFile": "img_m8_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "galleta",
+    "en": "cookie",
+    "emoji": "📖",
+    "originalFile": "img_m8_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "helado",
+    "en": "ice cream",
+    "emoji": "📖",
+    "originalFile": "img_m8_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "chocolate",
+    "en": "chocolate",
+    "emoji": "📖",
+    "originalFile": "img_m8_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "caramelo",
+    "en": "candy",
+    "emoji": "📖",
+    "originalFile": "img_m8_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pan",
+    "en": "bread",
+    "emoji": "📖",
+    "originalFile": "img_m8_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "queso",
+    "en": "cheese",
+    "emoji": "📖",
+    "originalFile": "img_m8_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "huevo",
+    "en": "egg",
+    "emoji": "📖",
+    "originalFile": "img_m9_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tocino",
+    "en": "bacon",
+    "emoji": "📖",
+    "originalFile": "img_m9_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cereal",
+    "en": "cereal",
+    "emoji": "📖",
+    "originalFile": "img_m9_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "avena",
+    "en": "oatmeal",
+    "emoji": "📖",
+    "originalFile": "img_m9_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "yogur",
+    "en": "yogurt",
+    "emoji": "📖",
+    "originalFile": "img_m9_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "miel",
+    "en": "honey",
+    "emoji": "📖",
+    "originalFile": "img_m9_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mantequilla",
+    "en": "butter",
+    "emoji": "📖",
+    "originalFile": "img_m9_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "te",
+    "en": "tea",
+    "emoji": "📖",
+    "originalFile": "img_m9_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "taza",
+    "en": "cup",
+    "emoji": "📖",
+    "originalFile": "img_m9_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "plato",
+    "en": "plate",
+    "emoji": "📖",
+    "originalFile": "img_m9_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cama",
+    "en": "bed",
+    "emoji": "📖",
+    "originalFile": "img_m10_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "almohada",
+    "en": "pillow",
+    "emoji": "📖",
+    "originalFile": "img_m10_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "manta",
+    "en": "blanket",
+    "emoji": "📖",
+    "originalFile": "img_m10_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "reloj",
+    "en": "clock",
+    "emoji": "📖",
+    "originalFile": "img_m10_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lampara",
+    "en": "lamp",
+    "emoji": "📖",
+    "originalFile": "img_m10_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "puerta",
+    "en": "door",
+    "emoji": "📖",
+    "originalFile": "img_m10_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ventana",
+    "en": "window",
+    "emoji": "📖",
+    "originalFile": "img_m10_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "armario",
+    "en": "closet",
+    "emoji": "📖",
+    "originalFile": "img_m10_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "alfombra",
+    "en": "rug",
+    "emoji": "📖",
+    "originalFile": "img_m10_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "espejo",
+    "en": "mirror",
+    "emoji": "📖",
+    "originalFile": "img_m10_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mesa",
+    "en": "table",
+    "emoji": "📖",
+    "originalFile": "img_m11_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "silla",
+    "en": "chair",
+    "emoji": "📖",
+    "originalFile": "img_m11_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cuchara",
+    "en": "spoon",
+    "emoji": "📖",
+    "originalFile": "img_m11_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tenedor",
+    "en": "fork",
+    "emoji": "📖",
+    "originalFile": "img_m11_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cuchillo",
+    "en": "knife",
+    "emoji": "📖",
+    "originalFile": "img_m11_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "vaso",
+    "en": "glass",
+    "emoji": "📖",
+    "originalFile": "img_m11_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tazon",
+    "en": "bowl",
+    "emoji": "📖",
+    "originalFile": "img_m11_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "olla",
+    "en": "pot",
+    "emoji": "📖",
+    "originalFile": "img_m11_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sarten",
+    "en": "pan",
+    "emoji": "📖",
+    "originalFile": "img_m11_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "refrigerador",
+    "en": "fridge",
+    "emoji": "📖",
+    "originalFile": "img_m11_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "jabon",
+    "en": "soap",
+    "emoji": "📖",
+    "originalFile": "img_m12_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "toalla",
+    "en": "towel",
+    "emoji": "📖",
+    "originalFile": "img_m12_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cepillo",
+    "en": "brush",
+    "emoji": "📖",
+    "originalFile": "img_m12_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pasta",
+    "en": "toothpaste",
+    "emoji": "📖",
+    "originalFile": "img_m12_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ducha",
+    "en": "shower",
+    "emoji": "📖",
+    "originalFile": "img_m12_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "banera",
+    "en": "bathtub",
+    "emoji": "📖",
+    "originalFile": "img_m12_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "inodoro",
+    "en": "toilet",
+    "emoji": "📖",
+    "originalFile": "img_m12_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "papel",
+    "en": "paper",
+    "emoji": "📖",
+    "originalFile": "img_m12_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lavamanos",
+    "en": "sink",
+    "emoji": "📖",
+    "originalFile": "img_m12_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "secador",
+    "en": "dryer",
+    "emoji": "📖",
+    "originalFile": "img_m12_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sofa",
+    "en": "sofa",
+    "emoji": "📖",
+    "originalFile": "img_m13_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tele",
+    "en": "TV",
+    "emoji": "📖",
+    "originalFile": "img_m13_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "libro",
+    "en": "book",
+    "emoji": "📖",
+    "originalFile": "img_m13_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pelota",
+    "en": "ball",
+    "emoji": "📖",
+    "originalFile": "img_m13_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "muneca",
+    "en": "doll",
+    "emoji": "📖",
+    "originalFile": "img_m13_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "carrito",
+    "en": "toy car",
+    "emoji": "📖",
+    "originalFile": "img_m13_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bloque",
+    "en": "block",
+    "emoji": "📖",
+    "originalFile": "img_m13_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "rompecabezas",
+    "en": "puzzle",
+    "emoji": "📖",
+    "originalFile": "img_m13_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "crayon",
+    "en": "crayon",
+    "emoji": "📖",
+    "originalFile": "img_m13_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "plastilina",
+    "en": "playdough",
+    "emoji": "📖",
+    "originalFile": "img_m13_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "camisa",
+    "en": "shirt",
+    "emoji": "📖",
+    "originalFile": "img_m14_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pantalon",
+    "en": "pants",
+    "emoji": "📖",
+    "originalFile": "img_m14_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "vestido",
+    "en": "dress",
+    "emoji": "📖",
+    "originalFile": "img_m14_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "falda",
+    "en": "skirt",
+    "emoji": "📖",
+    "originalFile": "img_m14_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "shorts",
+    "en": "shorts",
+    "emoji": "📖",
+    "originalFile": "img_m14_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "abrigo",
+    "en": "coat",
+    "emoji": "📖",
+    "originalFile": "img_m14_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sueter",
+    "en": "sweater",
+    "emoji": "📖",
+    "originalFile": "img_m14_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "calcetines",
+    "en": "socks",
+    "emoji": "📖",
+    "originalFile": "img_m14_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gorra",
+    "en": "cap",
+    "emoji": "📖",
+    "originalFile": "img_m14_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bufanda",
+    "en": "scarf",
+    "emoji": "📖",
+    "originalFile": "img_m14_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "zapato",
+    "en": "shoe",
+    "emoji": "📖",
+    "originalFile": "img_m15_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bota",
+    "en": "boot",
+    "emoji": "📖",
+    "originalFile": "img_m15_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sandalia",
+    "en": "sandal",
+    "emoji": "📖",
+    "originalFile": "img_m15_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "mochila",
+    "en": "backpack",
+    "emoji": "📖",
+    "originalFile": "img_m15_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bolso",
+    "en": "bag",
+    "emoji": "📖",
+    "originalFile": "img_m15_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "llaves",
+    "en": "keys",
+    "emoji": "📖",
+    "originalFile": "img_m15_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gafas",
+    "en": "glasses",
+    "emoji": "📖",
+    "originalFile": "img_m15_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "anillo",
+    "en": "ring",
+    "emoji": "📖",
+    "originalFile": "img_m15_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "collar",
+    "en": "necklace",
+    "emoji": "📖",
+    "originalFile": "img_m15_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pulsera",
+    "en": "bracelet",
+    "emoji": "📖",
+    "originalFile": "img_m15_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "auto",
+    "en": "car",
+    "emoji": "📖",
+    "originalFile": "img_m16_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "camion",
+    "en": "truck",
+    "emoji": "📖",
+    "originalFile": "img_m16_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bus",
+    "en": "bus",
+    "emoji": "📖",
+    "originalFile": "img_m16_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "taxi",
+    "en": "taxi",
+    "emoji": "📖",
+    "originalFile": "img_m16_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "moto",
+    "en": "motorcycle",
+    "emoji": "📖",
+    "originalFile": "img_m16_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "rueda",
+    "en": "wheel",
+    "emoji": "📖",
+    "originalFile": "img_m16_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "volante",
+    "en": "steering wheel",
+    "emoji": "📖",
+    "originalFile": "img_m16_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "motor",
+    "en": "engine",
+    "emoji": "📖",
+    "originalFile": "img_m16_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "gasolina",
+    "en": "gas",
+    "emoji": "📖",
+    "originalFile": "img_m16_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "llanta",
+    "en": "tire",
+    "emoji": "📖",
+    "originalFile": "img_m16_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tren",
+    "en": "train",
+    "emoji": "📖",
+    "originalFile": "img_m17_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "barco",
+    "en": "boat",
+    "emoji": "📖",
+    "originalFile": "img_m17_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "avion",
+    "en": "airplane",
+    "emoji": "📖",
+    "originalFile": "img_m17_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "helicoptero",
+    "en": "helicopter",
+    "emoji": "📖",
+    "originalFile": "img_m17_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cohete",
+    "en": "rocket",
+    "emoji": "📖",
+    "originalFile": "img_m17_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "submarino",
+    "en": "submarine",
+    "emoji": "📖",
+    "originalFile": "img_m17_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "velero",
+    "en": "sailboat",
+    "emoji": "📖",
+    "originalFile": "img_m17_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "canoa",
+    "en": "canoe",
+    "emoji": "📖",
+    "originalFile": "img_m17_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "globo",
+    "en": "balloon",
+    "emoji": "📖",
+    "originalFile": "img_m17_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pista",
+    "en": "runway",
+    "emoji": "📖",
+    "originalFile": "img_m17_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bicicleta",
+    "en": "bicycle",
+    "emoji": "📖",
+    "originalFile": "img_m18_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "patineta",
+    "en": "skateboard",
+    "emoji": "📖",
+    "originalFile": "img_m18_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "patines",
+    "en": "roller skates",
+    "emoji": "📖",
+    "originalFile": "img_m18_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "triciclo",
+    "en": "tricycle",
+    "emoji": "📖",
+    "originalFile": "img_m18_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "casco",
+    "en": "helmet",
+    "emoji": "📖",
+    "originalFile": "img_m18_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "rampa",
+    "en": "ramp",
+    "emoji": "📖",
+    "originalFile": "img_m18_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "freno",
+    "en": "brake",
+    "emoji": "📖",
+    "originalFile": "img_m18_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pedal",
+    "en": "pedal",
+    "emoji": "📖",
+    "originalFile": "img_m18_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cadena",
+    "en": "chain",
+    "emoji": "📖",
+    "originalFile": "img_m18_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "timbre",
+    "en": "bell",
+    "emoji": "📖",
+    "originalFile": "img_m18_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "columpio",
+    "en": "swing",
+    "emoji": "📖",
+    "originalFile": "img_m19_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tobogan",
+    "en": "slide",
+    "emoji": "📖",
+    "originalFile": "img_m19_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arenero",
+    "en": "sandbox",
+    "emoji": "📖",
+    "originalFile": "img_m19_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "fuente",
+    "en": "fountain",
+    "emoji": "📖",
+    "originalFile": "img_m19_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "banco",
+    "en": "bench",
+    "emoji": "📖",
+    "originalFile": "img_m19_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pasto",
+    "en": "grass",
+    "emoji": "📖",
+    "originalFile": "img_m19_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "flor",
+    "en": "flower",
+    "emoji": "📖",
+    "originalFile": "img_m19_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "camino",
+    "en": "path",
+    "emoji": "📖",
+    "originalFile": "img_m19_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cerca",
+    "en": "fence",
+    "emoji": "📖",
+    "originalFile": "img_m19_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "reja",
+    "en": "gate",
+    "emoji": "📖",
+    "originalFile": "img_m19_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arena",
+    "en": "sand",
+    "emoji": "📖",
+    "originalFile": "img_m20_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "ola",
+    "en": "wave",
+    "emoji": "📖",
+    "originalFile": "img_m20_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "concha",
+    "en": "seashell",
+    "emoji": "📖",
+    "originalFile": "img_m20_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sol",
+    "en": "sun",
+    "emoji": "📖",
+    "originalFile": "img_m20_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "sombrilla",
+    "en": "beach umbrella",
+    "emoji": "📖",
+    "originalFile": "img_m20_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "castillo",
+    "en": "castle",
+    "emoji": "📖",
+    "originalFile": "img_m20_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cubo",
+    "en": "bucket",
+    "emoji": "📖",
+    "originalFile": "img_m20_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pala",
+    "en": "shovel",
+    "emoji": "📖",
+    "originalFile": "img_m20_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "red",
+    "en": "net",
+    "emoji": "📖",
+    "originalFile": "img_m20_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "caracol",
+    "en": "snail",
+    "emoji": "📖",
+    "originalFile": "img_m20_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arbol",
+    "en": "tree",
+    "emoji": "📖",
+    "originalFile": "img_m21_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "hoja",
+    "en": "leaf",
+    "emoji": "📖",
+    "originalFile": "img_m21_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "rama",
+    "en": "branch",
+    "emoji": "📖",
+    "originalFile": "img_m21_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tronco",
+    "en": "trunk",
+    "emoji": "📖",
+    "originalFile": "img_m21_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "raiz",
+    "en": "root",
+    "emoji": "📖",
+    "originalFile": "img_m21_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "bosque",
+    "en": "forest",
+    "emoji": "📖",
+    "originalFile": "img_m21_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "montana",
+    "en": "mountain",
+    "emoji": "📖",
+    "originalFile": "img_m21_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "rio",
+    "en": "river",
+    "emoji": "📖",
+    "originalFile": "img_m21_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lago",
+    "en": "lake",
+    "emoji": "📖",
+    "originalFile": "img_m21_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "roca",
+    "en": "rock",
+    "emoji": "📖",
+    "originalFile": "img_m21_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "dia",
+    "en": "day",
+    "emoji": "📖",
+    "originalFile": "img_m22_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "luna",
+    "en": "moon",
+    "emoji": "📖",
+    "originalFile": "img_m22_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "nube",
+    "en": "cloud",
+    "emoji": "📖",
+    "originalFile": "img_m22_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lluvia",
+    "en": "rain",
+    "emoji": "📖",
+    "originalFile": "img_m22_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "nieve",
+    "en": "snow",
+    "emoji": "📖",
+    "originalFile": "img_m22_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "viento",
+    "en": "wind",
+    "emoji": "📖",
+    "originalFile": "img_m22_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tormenta",
+    "en": "storm",
+    "emoji": "📖",
+    "originalFile": "img_m22_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arcoiris",
+    "en": "rainbow",
+    "emoji": "📖",
+    "originalFile": "img_m22_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "frio",
+    "en": "cold",
+    "emoji": "📖",
+    "originalFile": "img_m22_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "calor",
+    "en": "heat",
+    "emoji": "📖",
+    "originalFile": "img_m22_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "escuela",
+    "en": "school",
+    "emoji": "📖",
+    "originalFile": "img_m23_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lapiz",
+    "en": "pencil",
+    "emoji": "📖",
+    "originalFile": "img_m23_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "goma",
+    "en": "eraser",
+    "emoji": "📖",
+    "originalFile": "img_m23_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "regla",
+    "en": "ruler",
+    "emoji": "📖",
+    "originalFile": "img_m23_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tijeras",
+    "en": "scissors",
+    "emoji": "📖",
+    "originalFile": "img_m23_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pegamento",
+    "en": "glue",
+    "emoji": "📖",
+    "originalFile": "img_m23_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "carpeta",
+    "en": "folder",
+    "emoji": "📖",
+    "originalFile": "img_m23_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "cuaderno",
+    "en": "notebook",
+    "emoji": "📖",
+    "originalFile": "img_m23_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pizarra",
+    "en": "whiteboard",
+    "emoji": "📖",
+    "originalFile": "img_m23_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "estuche",
+    "en": "pencil case",
+    "emoji": "📖",
+    "originalFile": "img_m23_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "guitarra",
+    "en": "guitar",
+    "emoji": "📖",
+    "originalFile": "img_m24_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tambor",
+    "en": "drum",
+    "emoji": "📖",
+    "originalFile": "img_m24_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "piano",
+    "en": "piano",
+    "emoji": "📖",
+    "originalFile": "img_m24_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "flauta",
+    "en": "flute",
+    "emoji": "📖",
+    "originalFile": "img_m24_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "microfono",
+    "en": "microphone",
+    "emoji": "📖",
+    "originalFile": "img_m24_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pintura",
+    "en": "paint",
+    "emoji": "📖",
+    "originalFile": "img_m24_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "pincel",
+    "en": "paintbrush",
+    "emoji": "📖",
+    "originalFile": "img_m24_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "lienzo",
+    "en": "canvas",
+    "emoji": "📖",
+    "originalFile": "img_m24_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "arcilla",
+    "en": "clay",
+    "emoji": "📖",
+    "originalFile": "img_m24_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "teatro",
+    "en": "theater",
+    "emoji": "📖",
+    "originalFile": "img_m24_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "casa",
+    "en": "house",
+    "emoji": "📖",
+    "originalFile": "img_m25_1.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "edificio",
+    "en": "building",
+    "emoji": "📖",
+    "originalFile": "img_m25_2.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "tienda",
+    "en": "store",
+    "emoji": "📖",
+    "originalFile": "img_m25_3.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "hospital",
+    "en": "hospital",
+    "emoji": "📖",
+    "originalFile": "img_m25_4.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "iglesia",
+    "en": "church",
+    "emoji": "📖",
+    "originalFile": "img_m25_5.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "puente",
+    "en": "bridge",
+    "emoji": "📖",
+    "originalFile": "img_m25_6.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "calle",
+    "en": "street",
+    "emoji": "📖",
+    "originalFile": "img_m25_7.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "semaforo",
+    "en": "traffic light",
+    "emoji": "📖",
+    "originalFile": "img_m25_8.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "plaza",
+    "en": "plaza",
+    "emoji": "📖",
+    "originalFile": "img_m25_9.jpg",
+    "scene": "object",
+    "source": "words.json"
+  },
+  {
+    "es": "estatua",
+    "en": "statue",
+    "emoji": "📖",
+    "originalFile": "img_m25_10.jpg",
+    "scene": "object",
+    "source": "words.json"
+  }
+]
