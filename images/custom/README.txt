@@ -1,0 +1,1 @@
+Place your replacement JPG files here. Exact names are in Image_Inventory.xlsx, e.g. img_m1_1.jpg. Keep names exactly; reload app after uploading. If an image is missing, the matching SVG default is shown.
