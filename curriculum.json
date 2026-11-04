@@ -1,0 +1,2952 @@
+[
+  {
+    "id": 1,
+    "title": "Greetings & People",
+    "icon": "👋",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "V650M01S01",
+        "es": "hola",
+        "en": "hello",
+        "emoji": "👋",
+        "imageNumber": 1,
+        "originalFile": "image_001_hola.jpg",
+        "fallbackFile": "images/vocabulary/image_001.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S02",
+        "es": "adiós",
+        "en": "goodbye",
+        "emoji": "👋",
+        "imageNumber": 2,
+        "originalFile": "image_002_adios.jpg",
+        "fallbackFile": "images/vocabulary/image_002.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S03",
+        "es": "bienvenido",
+        "en": "welcome",
+        "emoji": "🤗",
+        "imageNumber": 3,
+        "originalFile": "image_003_bienvenido.jpg",
+        "fallbackFile": "images/vocabulary/image_003.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S04",
+        "es": "saludos",
+        "en": "greetings",
+        "emoji": "👋",
+        "imageNumber": 4,
+        "originalFile": "image_004_saludos.jpg",
+        "fallbackFile": "images/vocabulary/image_004.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S05",
+        "es": "señor",
+        "en": "Mr. / sir",
+        "emoji": "👨",
+        "imageNumber": 5,
+        "originalFile": "image_005_senor.jpg",
+        "fallbackFile": "images/vocabulary/image_005.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S06",
+        "es": "señora",
+        "en": "Mrs. / ma’am",
+        "emoji": "👩",
+        "imageNumber": 6,
+        "originalFile": "image_006_senora.jpg",
+        "fallbackFile": "images/vocabulary/image_006.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S07",
+        "es": "niño",
+        "en": "boy",
+        "emoji": "👦",
+        "imageNumber": 7,
+        "originalFile": "image_007_nino.jpg",
+        "fallbackFile": "images/vocabulary/image_007.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S08",
+        "es": "niña",
+        "en": "girl",
+        "emoji": "👧",
+        "imageNumber": 8,
+        "originalFile": "image_008_nina.jpg",
+        "fallbackFile": "images/vocabulary/image_008.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S09",
+        "es": "bebé",
+        "en": "baby",
+        "emoji": "👶",
+        "imageNumber": 9,
+        "originalFile": "image_009_bebe.jpg",
+        "fallbackFile": "images/vocabulary/image_009.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M01S10",
+        "es": "persona",
+        "en": "person",
+        "emoji": "🧑",
+        "imageNumber": 10,
+        "originalFile": "image_010_persona.jpg",
+        "fallbackFile": "images/vocabulary/image_010.svg",
+        "subject": "Greetings & People",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Kind Words & Helping",
+    "icon": "🤝",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "V650M02S01",
+        "es": "gracias",
+        "en": "thank you",
+        "emoji": "🙏",
+        "imageNumber": 11,
+        "originalFile": "image_011_gracias.jpg",
+        "fallbackFile": "images/vocabulary/image_011.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S02",
+        "es": "perdón",
+        "en": "pardon / sorry",
+        "emoji": "🙇",
+        "imageNumber": 12,
+        "originalFile": "image_012_perdon.jpg",
+        "fallbackFile": "images/vocabulary/image_012.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S03",
+        "es": "permiso",
+        "en": "permission",
+        "emoji": "🚪",
+        "imageNumber": 13,
+        "originalFile": "image_013_permiso.jpg",
+        "fallbackFile": "images/vocabulary/image_013.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S04",
+        "es": "sí",
+        "en": "yes",
+        "emoji": "✅",
+        "imageNumber": 14,
+        "originalFile": "image_014_si.jpg",
+        "fallbackFile": "images/vocabulary/image_014.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S05",
+        "es": "no",
+        "en": "no",
+        "emoji": "❌",
+        "imageNumber": 15,
+        "originalFile": "image_015_no.jpg",
+        "fallbackFile": "images/vocabulary/image_015.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S06",
+        "es": "ayuda",
+        "en": "help",
+        "emoji": "🤝",
+        "imageNumber": 16,
+        "originalFile": "image_016_ayuda.jpg",
+        "fallbackFile": "images/vocabulary/image_016.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S07",
+        "es": "favor",
+        "en": "favor",
+        "emoji": "🤲",
+        "imageNumber": 17,
+        "originalFile": "image_017_favor.jpg",
+        "fallbackFile": "images/vocabulary/image_017.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S08",
+        "es": "disculpa",
+        "en": "apology / excuse",
+        "emoji": "🙇",
+        "imageNumber": 18,
+        "originalFile": "image_018_disculpa.jpg",
+        "fallbackFile": "images/vocabulary/image_018.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S09",
+        "es": "vale",
+        "en": "okay",
+        "emoji": "👌",
+        "imageNumber": 19,
+        "originalFile": "image_019_vale.jpg",
+        "fallbackFile": "images/vocabulary/image_019.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M02S10",
+        "es": "claro",
+        "en": "of course / clear",
+        "emoji": "👍",
+        "imageNumber": 20,
+        "originalFile": "image_020_claro.jpg",
+        "fallbackFile": "images/vocabulary/image_020.svg",
+        "subject": "Kind Words & Helping",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "My Name & Friends",
+    "icon": "🧑‍🤝‍🧑",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "V650M03S01",
+        "es": "amigo",
+        "en": "male friend",
+        "emoji": "👦",
+        "imageNumber": 21,
+        "originalFile": "image_021_amigo.jpg",
+        "fallbackFile": "images/vocabulary/image_021.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S02",
+        "es": "amiga",
+        "en": "female friend",
+        "emoji": "👧",
+        "imageNumber": 22,
+        "originalFile": "image_022_amiga.jpg",
+        "fallbackFile": "images/vocabulary/image_022.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S03",
+        "es": "nombre",
+        "en": "name",
+        "emoji": "🏷️",
+        "imageNumber": 23,
+        "originalFile": "image_023_nombre.jpg",
+        "fallbackFile": "images/vocabulary/image_023.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S04",
+        "es": "yo",
+        "en": "I",
+        "emoji": "🙋",
+        "imageNumber": 24,
+        "originalFile": "image_024_yo.jpg",
+        "fallbackFile": "images/vocabulary/image_024.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S05",
+        "es": "tú",
+        "en": "you (one friend)",
+        "emoji": "🫵",
+        "imageNumber": 25,
+        "originalFile": "image_025_tu.jpg",
+        "fallbackFile": "images/vocabulary/image_025.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S06",
+        "es": "él",
+        "en": "he",
+        "emoji": "👨",
+        "imageNumber": 26,
+        "originalFile": "image_026_el.jpg",
+        "fallbackFile": "images/vocabulary/image_026.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S07",
+        "es": "ella",
+        "en": "she",
+        "emoji": "👩",
+        "imageNumber": 27,
+        "originalFile": "image_027_ella.jpg",
+        "fallbackFile": "images/vocabulary/image_027.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S08",
+        "es": "nosotros",
+        "en": "we",
+        "emoji": "👨‍👩‍👧",
+        "imageNumber": 28,
+        "originalFile": "image_028_nosotros.jpg",
+        "fallbackFile": "images/vocabulary/image_028.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S09",
+        "es": "ustedes",
+        "en": "you (a group)",
+        "emoji": "👫",
+        "imageNumber": 29,
+        "originalFile": "image_029_ustedes.jpg",
+        "fallbackFile": "images/vocabulary/image_029.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M03S10",
+        "es": "ellos",
+        "en": "they (male or mixed group)",
+        "emoji": "👬",
+        "imageNumber": 30,
+        "originalFile": "image_030_ellos.jpg",
+        "fallbackFile": "images/vocabulary/image_030.svg",
+        "subject": "My Name & Friends",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "My Family",
+    "icon": "👪",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "V650M04S01",
+        "es": "mamá",
+        "en": "mom",
+        "emoji": "👩",
+        "imageNumber": 31,
+        "originalFile": "image_031_mama.jpg",
+        "fallbackFile": "images/vocabulary/image_031.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S02",
+        "es": "papá",
+        "en": "dad",
+        "emoji": "👨",
+        "imageNumber": 32,
+        "originalFile": "image_032_papa.jpg",
+        "fallbackFile": "images/vocabulary/image_032.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S03",
+        "es": "hermano",
+        "en": "brother",
+        "emoji": "👦",
+        "imageNumber": 33,
+        "originalFile": "image_033_hermano.jpg",
+        "fallbackFile": "images/vocabulary/image_033.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S04",
+        "es": "hermana",
+        "en": "sister",
+        "emoji": "👧",
+        "imageNumber": 34,
+        "originalFile": "image_034_hermana.jpg",
+        "fallbackFile": "images/vocabulary/image_034.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S05",
+        "es": "abuelo",
+        "en": "grandfather",
+        "emoji": "👴",
+        "imageNumber": 35,
+        "originalFile": "image_035_abuelo.jpg",
+        "fallbackFile": "images/vocabulary/image_035.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S06",
+        "es": "abuela",
+        "en": "grandmother",
+        "emoji": "👵",
+        "imageNumber": 36,
+        "originalFile": "image_036_abuela.jpg",
+        "fallbackFile": "images/vocabulary/image_036.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S07",
+        "es": "tío",
+        "en": "uncle",
+        "emoji": "👨",
+        "imageNumber": 37,
+        "originalFile": "image_037_tio.jpg",
+        "fallbackFile": "images/vocabulary/image_037.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S08",
+        "es": "tía",
+        "en": "aunt",
+        "emoji": "👩",
+        "imageNumber": 38,
+        "originalFile": "image_038_tia.jpg",
+        "fallbackFile": "images/vocabulary/image_038.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S09",
+        "es": "primo",
+        "en": "male cousin",
+        "emoji": "👦",
+        "imageNumber": 39,
+        "originalFile": "image_039_primo.jpg",
+        "fallbackFile": "images/vocabulary/image_039.svg",
+        "subject": "My Family",
+        "scene": "object"
+      },
+      {
+        "id": "V650M04S10",
+        "es": "prima",
+        "en": "female cousin",
+        "emoji": "👧",
+        "imageNumber": 40,
+        "originalFile": "image_040_prima.jpg",
+        "fallbackFile": "images/vocabulary/image_040.svg",
+        "subject": "My Family",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "My Feelings",
+    "icon": "🙂",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "V650M05S01",
+        "es": "feliz",
+        "en": "happy",
+        "emoji": "😊",
+        "imageNumber": 41,
+        "originalFile": "image_041_feliz.jpg",
+        "fallbackFile": "images/vocabulary/image_041.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S02",
+        "es": "triste",
+        "en": "sad",
+        "emoji": "😢",
+        "imageNumber": 42,
+        "originalFile": "image_042_triste.jpg",
+        "fallbackFile": "images/vocabulary/image_042.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S03",
+        "es": "enojado",
+        "en": "angry",
+        "emoji": "😠",
+        "imageNumber": 43,
+        "originalFile": "image_043_enojado.jpg",
+        "fallbackFile": "images/vocabulary/image_043.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S04",
+        "es": "asustado",
+        "en": "scared",
+        "emoji": "😨",
+        "imageNumber": 44,
+        "originalFile": "image_044_asustado.jpg",
+        "fallbackFile": "images/vocabulary/image_044.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S05",
+        "es": "cansado",
+        "en": "tired",
+        "emoji": "😴",
+        "imageNumber": 45,
+        "originalFile": "image_045_cansado.jpg",
+        "fallbackFile": "images/vocabulary/image_045.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S06",
+        "es": "sorprendido",
+        "en": "surprised",
+        "emoji": "😮",
+        "imageNumber": 46,
+        "originalFile": "image_046_sorprendido.jpg",
+        "fallbackFile": "images/vocabulary/image_046.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S07",
+        "es": "tranquilo",
+        "en": "calm",
+        "emoji": "😌",
+        "imageNumber": 47,
+        "originalFile": "image_047_tranquilo.jpg",
+        "fallbackFile": "images/vocabulary/image_047.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S08",
+        "es": "emocionado",
+        "en": "excited",
+        "emoji": "🤩",
+        "imageNumber": 48,
+        "originalFile": "image_048_emocionado.jpg",
+        "fallbackFile": "images/vocabulary/image_048.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S09",
+        "es": "aburrido",
+        "en": "bored",
+        "emoji": "😐",
+        "imageNumber": 49,
+        "originalFile": "image_049_aburrido.jpg",
+        "fallbackFile": "images/vocabulary/image_049.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M05S10",
+        "es": "preocupado",
+        "en": "worried",
+        "emoji": "😟",
+        "imageNumber": 50,
+        "originalFile": "image_050_preocupado.jpg",
+        "fallbackFile": "images/vocabulary/image_050.svg",
+        "subject": "My Feelings",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Numbers 1–10",
+    "icon": "🔢",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "V650M06S01",
+        "es": "uno",
+        "en": "one",
+        "emoji": "1️⃣",
+        "imageNumber": 51,
+        "originalFile": "image_051_uno.jpg",
+        "fallbackFile": "images/vocabulary/image_051.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S02",
+        "es": "dos",
+        "en": "two",
+        "emoji": "2️⃣",
+        "imageNumber": 52,
+        "originalFile": "image_052_dos.jpg",
+        "fallbackFile": "images/vocabulary/image_052.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S03",
+        "es": "tres",
+        "en": "three",
+        "emoji": "3️⃣",
+        "imageNumber": 53,
+        "originalFile": "image_053_tres.jpg",
+        "fallbackFile": "images/vocabulary/image_053.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S04",
+        "es": "cuatro",
+        "en": "four",
+        "emoji": "4️⃣",
+        "imageNumber": 54,
+        "originalFile": "image_054_cuatro.jpg",
+        "fallbackFile": "images/vocabulary/image_054.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S05",
+        "es": "cinco",
+        "en": "five",
+        "emoji": "5️⃣",
+        "imageNumber": 55,
+        "originalFile": "image_055_cinco.jpg",
+        "fallbackFile": "images/vocabulary/image_055.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S06",
+        "es": "seis",
+        "en": "six",
+        "emoji": "6️⃣",
+        "imageNumber": 56,
+        "originalFile": "image_056_seis.jpg",
+        "fallbackFile": "images/vocabulary/image_056.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S07",
+        "es": "siete",
+        "en": "seven",
+        "emoji": "7️⃣",
+        "imageNumber": 57,
+        "originalFile": "image_057_siete.jpg",
+        "fallbackFile": "images/vocabulary/image_057.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S08",
+        "es": "ocho",
+        "en": "eight",
+        "emoji": "8️⃣",
+        "imageNumber": 58,
+        "originalFile": "image_058_ocho.jpg",
+        "fallbackFile": "images/vocabulary/image_058.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S09",
+        "es": "nueve",
+        "en": "nine",
+        "emoji": "9️⃣",
+        "imageNumber": 59,
+        "originalFile": "image_059_nueve.jpg",
+        "fallbackFile": "images/vocabulary/image_059.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M06S10",
+        "es": "diez",
+        "en": "ten",
+        "emoji": "🔟",
+        "imageNumber": 60,
+        "originalFile": "image_060_diez.jpg",
+        "fallbackFile": "images/vocabulary/image_060.svg",
+        "subject": "Numbers 1–10",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Colors",
+    "icon": "🎨",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "V650M07S01",
+        "es": "rojo",
+        "en": "red",
+        "emoji": "🔴",
+        "imageNumber": 61,
+        "originalFile": "image_061_rojo.jpg",
+        "fallbackFile": "images/vocabulary/image_061.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S02",
+        "es": "azul",
+        "en": "blue",
+        "emoji": "🔵",
+        "imageNumber": 62,
+        "originalFile": "image_062_azul.jpg",
+        "fallbackFile": "images/vocabulary/image_062.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S03",
+        "es": "verde",
+        "en": "green",
+        "emoji": "🟢",
+        "imageNumber": 63,
+        "originalFile": "image_063_verde.jpg",
+        "fallbackFile": "images/vocabulary/image_063.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S04",
+        "es": "amarillo",
+        "en": "yellow",
+        "emoji": "🟡",
+        "imageNumber": 64,
+        "originalFile": "image_064_amarillo.jpg",
+        "fallbackFile": "images/vocabulary/image_064.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S05",
+        "es": "naranja",
+        "en": "orange (color)",
+        "emoji": "🟠",
+        "imageNumber": 65,
+        "originalFile": "image_065_naranja.jpg",
+        "fallbackFile": "images/vocabulary/image_065.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S06",
+        "es": "morado",
+        "en": "purple",
+        "emoji": "🟣",
+        "imageNumber": 66,
+        "originalFile": "image_066_morado.jpg",
+        "fallbackFile": "images/vocabulary/image_066.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S07",
+        "es": "rosa",
+        "en": "pink",
+        "emoji": "🌸",
+        "imageNumber": 67,
+        "originalFile": "image_067_rosa.jpg",
+        "fallbackFile": "images/vocabulary/image_067.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S08",
+        "es": "blanco",
+        "en": "white",
+        "emoji": "⚪",
+        "imageNumber": 68,
+        "originalFile": "image_068_blanco.jpg",
+        "fallbackFile": "images/vocabulary/image_068.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S09",
+        "es": "negro",
+        "en": "black",
+        "emoji": "⚫",
+        "imageNumber": 69,
+        "originalFile": "image_069_negro.jpg",
+        "fallbackFile": "images/vocabulary/image_069.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M07S10",
+        "es": "marrón",
+        "en": "brown",
+        "emoji": "🟤",
+        "imageNumber": 70,
+        "originalFile": "image_070_marron.jpg",
+        "fallbackFile": "images/vocabulary/image_070.svg",
+        "subject": "Colors",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "My Body",
+    "icon": "🧍",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "V650M08S01",
+        "es": "cabeza",
+        "en": "head",
+        "emoji": "🧑",
+        "imageNumber": 71,
+        "originalFile": "image_071_cabeza.jpg",
+        "fallbackFile": "images/vocabulary/image_071.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S02",
+        "es": "ojo",
+        "en": "eye",
+        "emoji": "👁️",
+        "imageNumber": 72,
+        "originalFile": "image_072_ojo.jpg",
+        "fallbackFile": "images/vocabulary/image_072.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S03",
+        "es": "oreja",
+        "en": "ear",
+        "emoji": "👂",
+        "imageNumber": 73,
+        "originalFile": "image_073_oreja.jpg",
+        "fallbackFile": "images/vocabulary/image_073.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S04",
+        "es": "nariz",
+        "en": "nose",
+        "emoji": "👃",
+        "imageNumber": 74,
+        "originalFile": "image_074_nariz.jpg",
+        "fallbackFile": "images/vocabulary/image_074.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S05",
+        "es": "boca",
+        "en": "mouth",
+        "emoji": "👄",
+        "imageNumber": 75,
+        "originalFile": "image_075_boca.jpg",
+        "fallbackFile": "images/vocabulary/image_075.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S06",
+        "es": "diente",
+        "en": "tooth",
+        "emoji": "🦷",
+        "imageNumber": 76,
+        "originalFile": "image_076_diente.jpg",
+        "fallbackFile": "images/vocabulary/image_076.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S07",
+        "es": "mano",
+        "en": "hand",
+        "emoji": "✋",
+        "imageNumber": 77,
+        "originalFile": "image_077_mano.jpg",
+        "fallbackFile": "images/vocabulary/image_077.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S08",
+        "es": "brazo",
+        "en": "arm",
+        "emoji": "💪",
+        "imageNumber": 78,
+        "originalFile": "image_078_brazo.jpg",
+        "fallbackFile": "images/vocabulary/image_078.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S09",
+        "es": "pierna",
+        "en": "leg",
+        "emoji": "🦵",
+        "imageNumber": 79,
+        "originalFile": "image_079_pierna.jpg",
+        "fallbackFile": "images/vocabulary/image_079.svg",
+        "subject": "My Body",
+        "scene": "object"
+      },
+      {
+        "id": "V650M08S10",
+        "es": "pie",
+        "en": "foot",
+        "emoji": "🦶",
+        "imageNumber": 80,
+        "originalFile": "image_080_pie.jpg",
+        "fallbackFile": "images/vocabulary/image_080.svg",
+        "subject": "My Body",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "My Home",
+    "icon": "🏡",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "V650M09S01",
+        "es": "casa",
+        "en": "house",
+        "emoji": "🏠",
+        "imageNumber": 81,
+        "originalFile": "image_081_casa.jpg",
+        "fallbackFile": "images/vocabulary/image_081.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S02",
+        "es": "puerta",
+        "en": "door",
+        "emoji": "🚪",
+        "imageNumber": 82,
+        "originalFile": "image_082_puerta.jpg",
+        "fallbackFile": "images/vocabulary/image_082.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S03",
+        "es": "ventana",
+        "en": "window",
+        "emoji": "🪟",
+        "imageNumber": 83,
+        "originalFile": "image_083_ventana.jpg",
+        "fallbackFile": "images/vocabulary/image_083.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S04",
+        "es": "techo",
+        "en": "roof / ceiling",
+        "emoji": "🏠",
+        "imageNumber": 84,
+        "originalFile": "image_084_techo.jpg",
+        "fallbackFile": "images/vocabulary/image_084.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S05",
+        "es": "pared",
+        "en": "wall",
+        "emoji": "🧱",
+        "imageNumber": 85,
+        "originalFile": "image_085_pared.jpg",
+        "fallbackFile": "images/vocabulary/image_085.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S06",
+        "es": "suelo",
+        "en": "floor / ground",
+        "emoji": "🟫",
+        "imageNumber": 86,
+        "originalFile": "image_086_suelo.jpg",
+        "fallbackFile": "images/vocabulary/image_086.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S07",
+        "es": "cama",
+        "en": "bed",
+        "emoji": "🛏️",
+        "imageNumber": 87,
+        "originalFile": "image_087_cama.jpg",
+        "fallbackFile": "images/vocabulary/image_087.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S08",
+        "es": "mesa",
+        "en": "table",
+        "emoji": "🪑",
+        "imageNumber": 88,
+        "originalFile": "image_088_mesa.jpg",
+        "fallbackFile": "images/vocabulary/image_088.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S09",
+        "es": "silla",
+        "en": "chair",
+        "emoji": "🪑",
+        "imageNumber": 89,
+        "originalFile": "image_089_silla.jpg",
+        "fallbackFile": "images/vocabulary/image_089.svg",
+        "subject": "My Home",
+        "scene": "object"
+      },
+      {
+        "id": "V650M09S10",
+        "es": "sofá",
+        "en": "sofa",
+        "emoji": "🛋️",
+        "imageNumber": 90,
+        "originalFile": "image_090_sofa.jpg",
+        "fallbackFile": "images/vocabulary/image_090.svg",
+        "subject": "My Home",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Food & Drinks",
+    "icon": "🍎",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "V650M10S01",
+        "es": "leche",
+        "en": "milk",
+        "emoji": "🥛",
+        "imageNumber": 91,
+        "originalFile": "image_091_leche.jpg",
+        "fallbackFile": "images/vocabulary/image_091.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S02",
+        "es": "agua",
+        "en": "water",
+        "emoji": "💧",
+        "imageNumber": 92,
+        "originalFile": "image_092_agua.jpg",
+        "fallbackFile": "images/vocabulary/image_092.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S03",
+        "es": "jugo",
+        "en": "juice",
+        "emoji": "🧃",
+        "imageNumber": 93,
+        "originalFile": "image_093_jugo.jpg",
+        "fallbackFile": "images/vocabulary/image_093.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S04",
+        "es": "pan",
+        "en": "bread",
+        "emoji": "🍞",
+        "imageNumber": 94,
+        "originalFile": "image_094_pan.jpg",
+        "fallbackFile": "images/vocabulary/image_094.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S05",
+        "es": "queso",
+        "en": "cheese",
+        "emoji": "🧀",
+        "imageNumber": 95,
+        "originalFile": "image_095_queso.jpg",
+        "fallbackFile": "images/vocabulary/image_095.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S06",
+        "es": "huevo",
+        "en": "egg",
+        "emoji": "🥚",
+        "imageNumber": 96,
+        "originalFile": "image_096_huevo.jpg",
+        "fallbackFile": "images/vocabulary/image_096.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S07",
+        "es": "arroz",
+        "en": "rice",
+        "emoji": "🍚",
+        "imageNumber": 97,
+        "originalFile": "image_097_arroz.jpg",
+        "fallbackFile": "images/vocabulary/image_097.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S08",
+        "es": "manzana",
+        "en": "apple",
+        "emoji": "🍎",
+        "imageNumber": 98,
+        "originalFile": "image_098_manzana.jpg",
+        "fallbackFile": "images/vocabulary/image_098.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S09",
+        "es": "sopa",
+        "en": "soup",
+        "emoji": "🥣",
+        "imageNumber": 99,
+        "originalFile": "image_099_sopa.jpg",
+        "fallbackFile": "images/vocabulary/image_099.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      },
+      {
+        "id": "V650M10S10",
+        "es": "plátano",
+        "en": "banana",
+        "emoji": "🍌",
+        "imageNumber": 100,
+        "originalFile": "image_100_platano.jpg",
+        "fallbackFile": "images/vocabulary/image_100.svg",
+        "subject": "Food & Drinks",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Clothes",
+    "icon": "👕",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "V650M11S01",
+        "es": "camisa",
+        "en": "shirt",
+        "emoji": "👕",
+        "imageNumber": 101,
+        "originalFile": "image_101_camisa.jpg",
+        "fallbackFile": "images/vocabulary/image_101.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S02",
+        "es": "pantalón",
+        "en": "pants",
+        "emoji": "👖",
+        "imageNumber": 102,
+        "originalFile": "image_102_pantalon.jpg",
+        "fallbackFile": "images/vocabulary/image_102.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S03",
+        "es": "vestido",
+        "en": "dress",
+        "emoji": "👗",
+        "imageNumber": 103,
+        "originalFile": "image_103_vestido.jpg",
+        "fallbackFile": "images/vocabulary/image_103.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S04",
+        "es": "falda",
+        "en": "skirt",
+        "emoji": "👗",
+        "imageNumber": 104,
+        "originalFile": "image_104_falda.jpg",
+        "fallbackFile": "images/vocabulary/image_104.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S05",
+        "es": "abrigo",
+        "en": "coat",
+        "emoji": "🧥",
+        "imageNumber": 105,
+        "originalFile": "image_105_abrigo.jpg",
+        "fallbackFile": "images/vocabulary/image_105.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S06",
+        "es": "suéter",
+        "en": "sweater",
+        "emoji": "🧶",
+        "imageNumber": 106,
+        "originalFile": "image_106_sueter.jpg",
+        "fallbackFile": "images/vocabulary/image_106.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S07",
+        "es": "calcetín",
+        "en": "sock",
+        "emoji": "🧦",
+        "imageNumber": 107,
+        "originalFile": "image_107_calcetin.jpg",
+        "fallbackFile": "images/vocabulary/image_107.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S08",
+        "es": "zapato",
+        "en": "shoe",
+        "emoji": "👟",
+        "imageNumber": 108,
+        "originalFile": "image_108_zapato.jpg",
+        "fallbackFile": "images/vocabulary/image_108.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S09",
+        "es": "gorra",
+        "en": "cap",
+        "emoji": "🧢",
+        "imageNumber": 109,
+        "originalFile": "image_109_gorra.jpg",
+        "fallbackFile": "images/vocabulary/image_109.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      },
+      {
+        "id": "V650M11S10",
+        "es": "bufanda",
+        "en": "scarf",
+        "emoji": "🧣",
+        "imageNumber": 110,
+        "originalFile": "image_110_bufanda.jpg",
+        "fallbackFile": "images/vocabulary/image_110.svg",
+        "subject": "Clothes",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "School & Play",
+    "icon": "🎒",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "V650M12S01",
+        "es": "escuela",
+        "en": "school",
+        "emoji": "🏫",
+        "imageNumber": 111,
+        "originalFile": "image_111_escuela.jpg",
+        "fallbackFile": "images/vocabulary/image_111.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S02",
+        "es": "maestro",
+        "en": "male teacher",
+        "emoji": "👨‍🏫",
+        "imageNumber": 112,
+        "originalFile": "image_112_maestro.jpg",
+        "fallbackFile": "images/vocabulary/image_112.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S03",
+        "es": "libro",
+        "en": "book",
+        "emoji": "📖",
+        "imageNumber": 113,
+        "originalFile": "image_113_libro.jpg",
+        "fallbackFile": "images/vocabulary/image_113.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S04",
+        "es": "lápiz",
+        "en": "pencil",
+        "emoji": "✏️",
+        "imageNumber": 114,
+        "originalFile": "image_114_lapiz.jpg",
+        "fallbackFile": "images/vocabulary/image_114.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S05",
+        "es": "cuaderno",
+        "en": "notebook",
+        "emoji": "📓",
+        "imageNumber": 115,
+        "originalFile": "image_115_cuaderno.jpg",
+        "fallbackFile": "images/vocabulary/image_115.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S06",
+        "es": "mochila",
+        "en": "backpack",
+        "emoji": "🎒",
+        "imageNumber": 116,
+        "originalFile": "image_116_mochila.jpg",
+        "fallbackFile": "images/vocabulary/image_116.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S07",
+        "es": "pelota",
+        "en": "ball",
+        "emoji": "⚽",
+        "imageNumber": 117,
+        "originalFile": "image_117_pelota.jpg",
+        "fallbackFile": "images/vocabulary/image_117.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S08",
+        "es": "muñeca",
+        "en": "doll",
+        "emoji": "🪆",
+        "imageNumber": 118,
+        "originalFile": "image_118_muneca.jpg",
+        "fallbackFile": "images/vocabulary/image_118.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S09",
+        "es": "juguete",
+        "en": "toy",
+        "emoji": "🧸",
+        "imageNumber": 119,
+        "originalFile": "image_119_juguete.jpg",
+        "fallbackFile": "images/vocabulary/image_119.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      },
+      {
+        "id": "V650M12S10",
+        "es": "juego",
+        "en": "game",
+        "emoji": "🎲",
+        "imageNumber": 120,
+        "originalFile": "image_120_juego.jpg",
+        "fallbackFile": "images/vocabulary/image_120.svg",
+        "subject": "School & Play",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pets",
+    "icon": "🐾",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "V650M13S01",
+        "es": "perro",
+        "en": "dog",
+        "emoji": "🐕",
+        "imageNumber": 121,
+        "originalFile": "image_121_perro.jpg",
+        "fallbackFile": "images/vocabulary/image_121.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S02",
+        "es": "gato",
+        "en": "cat",
+        "emoji": "🐈",
+        "imageNumber": 122,
+        "originalFile": "image_122_gato.jpg",
+        "fallbackFile": "images/vocabulary/image_122.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S03",
+        "es": "pez",
+        "en": "fish",
+        "emoji": "🐟",
+        "imageNumber": 123,
+        "originalFile": "image_123_pez.jpg",
+        "fallbackFile": "images/vocabulary/image_123.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S04",
+        "es": "pájaro",
+        "en": "bird",
+        "emoji": "🐦",
+        "imageNumber": 124,
+        "originalFile": "image_124_pajaro.jpg",
+        "fallbackFile": "images/vocabulary/image_124.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S05",
+        "es": "conejo",
+        "en": "rabbit",
+        "emoji": "🐇",
+        "imageNumber": 125,
+        "originalFile": "image_125_conejo.jpg",
+        "fallbackFile": "images/vocabulary/image_125.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S06",
+        "es": "hámster",
+        "en": "hamster",
+        "emoji": "🐹",
+        "imageNumber": 126,
+        "originalFile": "image_126_hamster.jpg",
+        "fallbackFile": "images/vocabulary/image_126.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S07",
+        "es": "tortuga",
+        "en": "turtle",
+        "emoji": "🐢",
+        "imageNumber": 127,
+        "originalFile": "image_127_tortuga.jpg",
+        "fallbackFile": "images/vocabulary/image_127.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S08",
+        "es": "loro",
+        "en": "parrot",
+        "emoji": "🦜",
+        "imageNumber": 128,
+        "originalFile": "image_128_loro.jpg",
+        "fallbackFile": "images/vocabulary/image_128.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S09",
+        "es": "cobaya",
+        "en": "guinea pig",
+        "emoji": "🐹",
+        "imageNumber": 129,
+        "originalFile": "image_129_cobaya.jpg",
+        "fallbackFile": "images/vocabulary/image_129.svg",
+        "subject": "Pets",
+        "scene": "object"
+      },
+      {
+        "id": "V650M13S10",
+        "es": "cachorro",
+        "en": "puppy",
+        "emoji": "🐶",
+        "imageNumber": 130,
+        "originalFile": "image_130_cachorro.jpg",
+        "fallbackFile": "images/vocabulary/image_130.svg",
+        "subject": "Pets",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Farm Animals",
+    "icon": "🐄",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "V650M14S01",
+        "es": "vaca",
+        "en": "cow",
+        "emoji": "🐄",
+        "imageNumber": 131,
+        "originalFile": "image_131_vaca.jpg",
+        "fallbackFile": "images/vocabulary/image_131.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S02",
+        "es": "cerdo",
+        "en": "pig",
+        "emoji": "🐖",
+        "imageNumber": 132,
+        "originalFile": "image_132_cerdo.jpg",
+        "fallbackFile": "images/vocabulary/image_132.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S03",
+        "es": "oveja",
+        "en": "sheep",
+        "emoji": "🐑",
+        "imageNumber": 133,
+        "originalFile": "image_133_oveja.jpg",
+        "fallbackFile": "images/vocabulary/image_133.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S04",
+        "es": "gallina",
+        "en": "hen",
+        "emoji": "🐔",
+        "imageNumber": 134,
+        "originalFile": "image_134_gallina.jpg",
+        "fallbackFile": "images/vocabulary/image_134.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S05",
+        "es": "pato",
+        "en": "duck",
+        "emoji": "🦆",
+        "imageNumber": 135,
+        "originalFile": "image_135_pato.jpg",
+        "fallbackFile": "images/vocabulary/image_135.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S06",
+        "es": "ganso",
+        "en": "goose",
+        "emoji": "🪿",
+        "imageNumber": 136,
+        "originalFile": "image_136_ganso.jpg",
+        "fallbackFile": "images/vocabulary/image_136.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S07",
+        "es": "cabra",
+        "en": "goat",
+        "emoji": "🐐",
+        "imageNumber": 137,
+        "originalFile": "image_137_cabra.jpg",
+        "fallbackFile": "images/vocabulary/image_137.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S08",
+        "es": "burro",
+        "en": "donkey",
+        "emoji": "🫏",
+        "imageNumber": 138,
+        "originalFile": "image_138_burro.jpg",
+        "fallbackFile": "images/vocabulary/image_138.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S09",
+        "es": "gallo",
+        "en": "rooster",
+        "emoji": "🐓",
+        "imageNumber": 139,
+        "originalFile": "image_139_gallo.jpg",
+        "fallbackFile": "images/vocabulary/image_139.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M14S10",
+        "es": "caballo",
+        "en": "horse",
+        "emoji": "🐎",
+        "imageNumber": 140,
+        "originalFile": "image_140_caballo.jpg",
+        "fallbackFile": "images/vocabulary/image_140.svg",
+        "subject": "Farm Animals",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Wild Animals",
+    "icon": "🦁",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "V650M15S01",
+        "es": "león",
+        "en": "lion",
+        "emoji": "🦁",
+        "imageNumber": 141,
+        "originalFile": "image_141_leon.jpg",
+        "fallbackFile": "images/vocabulary/image_141.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S02",
+        "es": "tigre",
+        "en": "tiger",
+        "emoji": "🐅",
+        "imageNumber": 142,
+        "originalFile": "image_142_tigre.jpg",
+        "fallbackFile": "images/vocabulary/image_142.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S03",
+        "es": "mono",
+        "en": "monkey",
+        "emoji": "🐒",
+        "imageNumber": 143,
+        "originalFile": "image_143_mono.jpg",
+        "fallbackFile": "images/vocabulary/image_143.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S04",
+        "es": "elefante",
+        "en": "elephant",
+        "emoji": "🐘",
+        "imageNumber": 144,
+        "originalFile": "image_144_elefante.jpg",
+        "fallbackFile": "images/vocabulary/image_144.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S05",
+        "es": "jirafa",
+        "en": "giraffe",
+        "emoji": "🦒",
+        "imageNumber": 145,
+        "originalFile": "image_145_jirafa.jpg",
+        "fallbackFile": "images/vocabulary/image_145.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S06",
+        "es": "cebra",
+        "en": "zebra",
+        "emoji": "🦓",
+        "imageNumber": 146,
+        "originalFile": "image_146_cebra.jpg",
+        "fallbackFile": "images/vocabulary/image_146.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S07",
+        "es": "oso",
+        "en": "bear",
+        "emoji": "🐻",
+        "imageNumber": 147,
+        "originalFile": "image_147_oso.jpg",
+        "fallbackFile": "images/vocabulary/image_147.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S08",
+        "es": "lobo",
+        "en": "wolf",
+        "emoji": "🐺",
+        "imageNumber": 148,
+        "originalFile": "image_148_lobo.jpg",
+        "fallbackFile": "images/vocabulary/image_148.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S09",
+        "es": "zorro",
+        "en": "fox",
+        "emoji": "🦊",
+        "imageNumber": 149,
+        "originalFile": "image_149_zorro.jpg",
+        "fallbackFile": "images/vocabulary/image_149.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      },
+      {
+        "id": "V650M15S10",
+        "es": "panda",
+        "en": "panda",
+        "emoji": "🐼",
+        "imageNumber": 150,
+        "originalFile": "image_150_panda.jpg",
+        "fallbackFile": "images/vocabulary/image_150.svg",
+        "subject": "Wild Animals",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Nature",
+    "icon": "🌳",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "V650M16S01",
+        "es": "árbol",
+        "en": "tree",
+        "emoji": "🌳",
+        "imageNumber": 151,
+        "originalFile": "image_151_arbol.jpg",
+        "fallbackFile": "images/vocabulary/image_151.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S02",
+        "es": "flor",
+        "en": "flower",
+        "emoji": "🌸",
+        "imageNumber": 152,
+        "originalFile": "image_152_flor.jpg",
+        "fallbackFile": "images/vocabulary/image_152.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S03",
+        "es": "hoja",
+        "en": "leaf",
+        "emoji": "🍃",
+        "imageNumber": 153,
+        "originalFile": "image_153_hoja.jpg",
+        "fallbackFile": "images/vocabulary/image_153.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S04",
+        "es": "rama",
+        "en": "branch",
+        "emoji": "🌿",
+        "imageNumber": 154,
+        "originalFile": "image_154_rama.jpg",
+        "fallbackFile": "images/vocabulary/image_154.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S05",
+        "es": "bosque",
+        "en": "forest",
+        "emoji": "🌲",
+        "imageNumber": 155,
+        "originalFile": "image_155_bosque.jpg",
+        "fallbackFile": "images/vocabulary/image_155.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S06",
+        "es": "montaña",
+        "en": "mountain",
+        "emoji": "⛰️",
+        "imageNumber": 156,
+        "originalFile": "image_156_montana.jpg",
+        "fallbackFile": "images/vocabulary/image_156.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S07",
+        "es": "río",
+        "en": "river",
+        "emoji": "🏞️",
+        "imageNumber": 157,
+        "originalFile": "image_157_rio.jpg",
+        "fallbackFile": "images/vocabulary/image_157.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S08",
+        "es": "lago",
+        "en": "lake",
+        "emoji": "🌊",
+        "imageNumber": 158,
+        "originalFile": "image_158_lago.jpg",
+        "fallbackFile": "images/vocabulary/image_158.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S09",
+        "es": "roca",
+        "en": "rock",
+        "emoji": "🪨",
+        "imageNumber": 159,
+        "originalFile": "image_159_roca.jpg",
+        "fallbackFile": "images/vocabulary/image_159.svg",
+        "subject": "Nature",
+        "scene": "object"
+      },
+      {
+        "id": "V650M16S10",
+        "es": "mar",
+        "en": "sea",
+        "emoji": "🌊",
+        "imageNumber": 160,
+        "originalFile": "image_160_mar.jpg",
+        "fallbackFile": "images/vocabulary/image_160.svg",
+        "subject": "Nature",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Weather",
+    "icon": "🌦️",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "V650M17S01",
+        "es": "sol",
+        "en": "sun",
+        "emoji": "☀️",
+        "imageNumber": 161,
+        "originalFile": "image_161_sol.jpg",
+        "fallbackFile": "images/vocabulary/image_161.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S02",
+        "es": "nube",
+        "en": "cloud",
+        "emoji": "☁️",
+        "imageNumber": 162,
+        "originalFile": "image_162_nube.jpg",
+        "fallbackFile": "images/vocabulary/image_162.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S03",
+        "es": "lluvia",
+        "en": "rain",
+        "emoji": "🌧️",
+        "imageNumber": 163,
+        "originalFile": "image_163_lluvia.jpg",
+        "fallbackFile": "images/vocabulary/image_163.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S04",
+        "es": "nieve",
+        "en": "snow",
+        "emoji": "❄️",
+        "imageNumber": 164,
+        "originalFile": "image_164_nieve.jpg",
+        "fallbackFile": "images/vocabulary/image_164.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S05",
+        "es": "viento",
+        "en": "wind",
+        "emoji": "💨",
+        "imageNumber": 165,
+        "originalFile": "image_165_viento.jpg",
+        "fallbackFile": "images/vocabulary/image_165.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S06",
+        "es": "tormenta",
+        "en": "storm",
+        "emoji": "⛈️",
+        "imageNumber": 166,
+        "originalFile": "image_166_tormenta.jpg",
+        "fallbackFile": "images/vocabulary/image_166.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S07",
+        "es": "arcoíris",
+        "en": "rainbow",
+        "emoji": "🌈",
+        "imageNumber": 167,
+        "originalFile": "image_167_arcoiris.jpg",
+        "fallbackFile": "images/vocabulary/image_167.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S08",
+        "es": "frío",
+        "en": "cold",
+        "emoji": "🥶",
+        "imageNumber": 168,
+        "originalFile": "image_168_frio.jpg",
+        "fallbackFile": "images/vocabulary/image_168.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S09",
+        "es": "calor",
+        "en": "heat",
+        "emoji": "🥵",
+        "imageNumber": 169,
+        "originalFile": "image_169_calor.jpg",
+        "fallbackFile": "images/vocabulary/image_169.svg",
+        "subject": "Weather",
+        "scene": "object"
+      },
+      {
+        "id": "V650M17S10",
+        "es": "niebla",
+        "en": "fog",
+        "emoji": "🌫️",
+        "imageNumber": 170,
+        "originalFile": "image_170_niebla.jpg",
+        "fallbackFile": "images/vocabulary/image_170.svg",
+        "subject": "Weather",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Getting Around",
+    "icon": "🚲",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "V650M18S01",
+        "es": "auto",
+        "en": "car",
+        "emoji": "🚗",
+        "imageNumber": 171,
+        "originalFile": "image_171_auto.jpg",
+        "fallbackFile": "images/vocabulary/image_171.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S02",
+        "es": "autobús",
+        "en": "bus",
+        "emoji": "🚌",
+        "imageNumber": 172,
+        "originalFile": "image_172_autobus.jpg",
+        "fallbackFile": "images/vocabulary/image_172.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S03",
+        "es": "tren",
+        "en": "train",
+        "emoji": "🚆",
+        "imageNumber": 173,
+        "originalFile": "image_173_tren.jpg",
+        "fallbackFile": "images/vocabulary/image_173.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S04",
+        "es": "barco",
+        "en": "boat",
+        "emoji": "🚢",
+        "imageNumber": 174,
+        "originalFile": "image_174_barco.jpg",
+        "fallbackFile": "images/vocabulary/image_174.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S05",
+        "es": "avión",
+        "en": "airplane",
+        "emoji": "✈️",
+        "imageNumber": 175,
+        "originalFile": "image_175_avion.jpg",
+        "fallbackFile": "images/vocabulary/image_175.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S06",
+        "es": "bicicleta",
+        "en": "bicycle",
+        "emoji": "🚲",
+        "imageNumber": 176,
+        "originalFile": "image_176_bicicleta.jpg",
+        "fallbackFile": "images/vocabulary/image_176.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S07",
+        "es": "taxi",
+        "en": "taxi",
+        "emoji": "🚕",
+        "imageNumber": 177,
+        "originalFile": "image_177_taxi.jpg",
+        "fallbackFile": "images/vocabulary/image_177.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S08",
+        "es": "camión",
+        "en": "truck",
+        "emoji": "🚚",
+        "imageNumber": 178,
+        "originalFile": "image_178_camion.jpg",
+        "fallbackFile": "images/vocabulary/image_178.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S09",
+        "es": "calle",
+        "en": "street",
+        "emoji": "🛣️",
+        "imageNumber": 179,
+        "originalFile": "image_179_calle.jpg",
+        "fallbackFile": "images/vocabulary/image_179.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      },
+      {
+        "id": "V650M18S10",
+        "es": "puente",
+        "en": "bridge",
+        "emoji": "🌉",
+        "imageNumber": 180,
+        "originalFile": "image_180_puente.jpg",
+        "fallbackFile": "images/vocabulary/image_180.svg",
+        "subject": "Getting Around",
+        "scene": "object"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Days & Calendar",
+    "icon": "📅",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "V650M19S01",
+        "es": "lunes",
+        "en": "Monday",
+        "emoji": "📅",
+        "imageNumber": 181,
+        "originalFile": "image_181_lunes.jpg",
+        "fallbackFile": "images/vocabulary/image_181.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S02",
+        "es": "martes",
+        "en": "Tuesday",
+        "emoji": "📅",
+        "imageNumber": 182,
+        "originalFile": "image_182_martes.jpg",
+        "fallbackFile": "images/vocabulary/image_182.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S03",
+        "es": "miércoles",
+        "en": "Wednesday",
+        "emoji": "📅",
+        "imageNumber": 183,
+        "originalFile": "image_183_miercoles.jpg",
+        "fallbackFile": "images/vocabulary/image_183.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S04",
+        "es": "jueves",
+        "en": "Thursday",
+        "emoji": "📅",
+        "imageNumber": 184,
+        "originalFile": "image_184_jueves.jpg",
+        "fallbackFile": "images/vocabulary/image_184.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S05",
+        "es": "viernes",
+        "en": "Friday",
+        "emoji": "📅",
+        "imageNumber": 185,
+        "originalFile": "image_185_viernes.jpg",
+        "fallbackFile": "images/vocabulary/image_185.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S06",
+        "es": "sábado",
+        "en": "Saturday",
+        "emoji": "📅",
+        "imageNumber": 186,
+        "originalFile": "image_186_sabado.jpg",
+        "fallbackFile": "images/vocabulary/image_186.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S07",
+        "es": "domingo",
+        "en": "Sunday",
+        "emoji": "📅",
+        "imageNumber": 187,
+        "originalFile": "image_187_domingo.jpg",
+        "fallbackFile": "images/vocabulary/image_187.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S08",
+        "es": "semana",
+        "en": "week",
+        "emoji": "🗓️",
+        "imageNumber": 188,
+        "originalFile": "image_188_semana.jpg",
+        "fallbackFile": "images/vocabulary/image_188.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S09",
+        "es": "mes",
+        "en": "month",
+        "emoji": "🗓️",
+        "imageNumber": 189,
+        "originalFile": "image_189_mes.jpg",
+        "fallbackFile": "images/vocabulary/image_189.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M19S10",
+        "es": "año",
+        "en": "year",
+        "emoji": "📆",
+        "imageNumber": 190,
+        "originalFile": "image_190_ano.jpg",
+        "fallbackFile": "images/vocabulary/image_190.svg",
+        "subject": "Days & Calendar",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Numbers 11–20",
+    "icon": "🔢",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "V650M20S01",
+        "es": "once",
+        "en": "eleven",
+        "emoji": "🔢",
+        "imageNumber": 191,
+        "originalFile": "image_191_once.jpg",
+        "fallbackFile": "images/vocabulary/image_191.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S02",
+        "es": "doce",
+        "en": "twelve",
+        "emoji": "🔢",
+        "imageNumber": 192,
+        "originalFile": "image_192_doce.jpg",
+        "fallbackFile": "images/vocabulary/image_192.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S03",
+        "es": "trece",
+        "en": "thirteen",
+        "emoji": "🔢",
+        "imageNumber": 193,
+        "originalFile": "image_193_trece.jpg",
+        "fallbackFile": "images/vocabulary/image_193.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S04",
+        "es": "catorce",
+        "en": "fourteen",
+        "emoji": "🔢",
+        "imageNumber": 194,
+        "originalFile": "image_194_catorce.jpg",
+        "fallbackFile": "images/vocabulary/image_194.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S05",
+        "es": "quince",
+        "en": "fifteen",
+        "emoji": "🔢",
+        "imageNumber": 195,
+        "originalFile": "image_195_quince.jpg",
+        "fallbackFile": "images/vocabulary/image_195.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S06",
+        "es": "dieciséis",
+        "en": "sixteen",
+        "emoji": "🔢",
+        "imageNumber": 196,
+        "originalFile": "image_196_dieciseis.jpg",
+        "fallbackFile": "images/vocabulary/image_196.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S07",
+        "es": "diecisiete",
+        "en": "seventeen",
+        "emoji": "🔢",
+        "imageNumber": 197,
+        "originalFile": "image_197_diecisiete.jpg",
+        "fallbackFile": "images/vocabulary/image_197.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S08",
+        "es": "dieciocho",
+        "en": "eighteen",
+        "emoji": "🔢",
+        "imageNumber": 198,
+        "originalFile": "image_198_dieciocho.jpg",
+        "fallbackFile": "images/vocabulary/image_198.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S09",
+        "es": "diecinueve",
+        "en": "nineteen",
+        "emoji": "🔢",
+        "imageNumber": 199,
+        "originalFile": "image_199_diecinueve.jpg",
+        "fallbackFile": "images/vocabulary/image_199.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M20S10",
+        "es": "veinte",
+        "en": "twenty",
+        "emoji": "🔢",
+        "imageNumber": 200,
+        "originalFile": "image_200_veinte.jpg",
+        "fallbackFile": "images/vocabulary/image_200.svg",
+        "subject": "Numbers 11–20",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Telling Time",
+    "icon": "🕰️",
+    "theme": 0,
+    "stops": [
+      {
+        "id": "V650M21S01",
+        "es": "hora",
+        "en": "hour / time",
+        "emoji": "🕐",
+        "imageNumber": 201,
+        "originalFile": "image_201_hora.jpg",
+        "fallbackFile": "images/vocabulary/image_201.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S02",
+        "es": "minuto",
+        "en": "minute",
+        "emoji": "⏱️",
+        "imageNumber": 202,
+        "originalFile": "image_202_minuto.jpg",
+        "fallbackFile": "images/vocabulary/image_202.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S03",
+        "es": "segundo",
+        "en": "second",
+        "emoji": "⏱️",
+        "imageNumber": 203,
+        "originalFile": "image_203_segundo.jpg",
+        "fallbackFile": "images/vocabulary/image_203.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S04",
+        "es": "reloj",
+        "en": "clock",
+        "emoji": "🕰️",
+        "imageNumber": 204,
+        "originalFile": "image_204_reloj.jpg",
+        "fallbackFile": "images/vocabulary/image_204.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S05",
+        "es": "mediodía",
+        "en": "noon",
+        "emoji": "☀️",
+        "imageNumber": 205,
+        "originalFile": "image_205_mediodia.jpg",
+        "fallbackFile": "images/vocabulary/image_205.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S06",
+        "es": "medianoche",
+        "en": "midnight",
+        "emoji": "🌙",
+        "imageNumber": 206,
+        "originalFile": "image_206_medianoche.jpg",
+        "fallbackFile": "images/vocabulary/image_206.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S07",
+        "es": "temprano",
+        "en": "early",
+        "emoji": "🌅",
+        "imageNumber": 207,
+        "originalFile": "image_207_temprano.jpg",
+        "fallbackFile": "images/vocabulary/image_207.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S08",
+        "es": "tarde",
+        "en": "late / afternoon",
+        "emoji": "🌇",
+        "imageNumber": 208,
+        "originalFile": "image_208_tarde.jpg",
+        "fallbackFile": "images/vocabulary/image_208.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S09",
+        "es": "ahora",
+        "en": "now",
+        "emoji": "⏰",
+        "imageNumber": 209,
+        "originalFile": "image_209_ahora.jpg",
+        "fallbackFile": "images/vocabulary/image_209.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M21S10",
+        "es": "después",
+        "en": "afterward",
+        "emoji": "➡️",
+        "imageNumber": 210,
+        "originalFile": "image_210_despues.jpg",
+        "fallbackFile": "images/vocabulary/image_210.svg",
+        "subject": "Telling Time",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "My Daily Routine",
+    "icon": "🌅",
+    "theme": 1,
+    "stops": [
+      {
+        "id": "V650M22S01",
+        "es": "despertar",
+        "en": "to wake up",
+        "emoji": "🌅",
+        "imageNumber": 211,
+        "originalFile": "image_211_despertar.jpg",
+        "fallbackFile": "images/vocabulary/image_211.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S02",
+        "es": "levantarse",
+        "en": "to get up",
+        "emoji": "🛏️",
+        "imageNumber": 212,
+        "originalFile": "image_212_levantarse.jpg",
+        "fallbackFile": "images/vocabulary/image_212.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S03",
+        "es": "lavarse",
+        "en": "to wash oneself",
+        "emoji": "🧼",
+        "imageNumber": 213,
+        "originalFile": "image_213_lavarse.jpg",
+        "fallbackFile": "images/vocabulary/image_213.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S04",
+        "es": "vestirse",
+        "en": "to get dressed",
+        "emoji": "👕",
+        "imageNumber": 214,
+        "originalFile": "image_214_vestirse.jpg",
+        "fallbackFile": "images/vocabulary/image_214.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S05",
+        "es": "desayunar",
+        "en": "to eat breakfast",
+        "emoji": "🥣",
+        "imageNumber": 215,
+        "originalFile": "image_215_desayunar.jpg",
+        "fallbackFile": "images/vocabulary/image_215.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S06",
+        "es": "comer",
+        "en": "to eat",
+        "emoji": "🍽️",
+        "imageNumber": 216,
+        "originalFile": "image_216_comer.jpg",
+        "fallbackFile": "images/vocabulary/image_216.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S07",
+        "es": "beber",
+        "en": "to drink",
+        "emoji": "🥤",
+        "imageNumber": 217,
+        "originalFile": "image_217_beber.jpg",
+        "fallbackFile": "images/vocabulary/image_217.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S08",
+        "es": "jugar",
+        "en": "to play",
+        "emoji": "⚽",
+        "imageNumber": 218,
+        "originalFile": "image_218_jugar.jpg",
+        "fallbackFile": "images/vocabulary/image_218.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S09",
+        "es": "bañarse",
+        "en": "to bathe",
+        "emoji": "🛁",
+        "imageNumber": 219,
+        "originalFile": "image_219_banarse.jpg",
+        "fallbackFile": "images/vocabulary/image_219.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M22S10",
+        "es": "dormir",
+        "en": "to sleep",
+        "emoji": "😴",
+        "imageNumber": 220,
+        "originalFile": "image_220_dormir.jpg",
+        "fallbackFile": "images/vocabulary/image_220.svg",
+        "subject": "My Daily Routine",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Questions & Answers",
+    "icon": "❓",
+    "theme": 2,
+    "stops": [
+      {
+        "id": "V650M23S01",
+        "es": "qué",
+        "en": "what",
+        "emoji": "❓",
+        "imageNumber": 221,
+        "originalFile": "image_221_que.jpg",
+        "fallbackFile": "images/vocabulary/image_221.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S02",
+        "es": "quién",
+        "en": "who",
+        "emoji": "🙋",
+        "imageNumber": 222,
+        "originalFile": "image_222_quien.jpg",
+        "fallbackFile": "images/vocabulary/image_222.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S03",
+        "es": "dónde",
+        "en": "where",
+        "emoji": "📍",
+        "imageNumber": 223,
+        "originalFile": "image_223_donde.jpg",
+        "fallbackFile": "images/vocabulary/image_223.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S04",
+        "es": "cuándo",
+        "en": "when",
+        "emoji": "📅",
+        "imageNumber": 224,
+        "originalFile": "image_224_cuando.jpg",
+        "fallbackFile": "images/vocabulary/image_224.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S05",
+        "es": "cómo",
+        "en": "how",
+        "emoji": "❔",
+        "imageNumber": 225,
+        "originalFile": "image_225_como.jpg",
+        "fallbackFile": "images/vocabulary/image_225.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S06",
+        "es": "cuál",
+        "en": "which",
+        "emoji": "👉",
+        "imageNumber": 226,
+        "originalFile": "image_226_cual.jpg",
+        "fallbackFile": "images/vocabulary/image_226.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S07",
+        "es": "cuánto",
+        "en": "how much",
+        "emoji": "🔢",
+        "imageNumber": 227,
+        "originalFile": "image_227_cuanto.jpg",
+        "fallbackFile": "images/vocabulary/image_227.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S08",
+        "es": "pregunta",
+        "en": "question",
+        "emoji": "❓",
+        "imageNumber": 228,
+        "originalFile": "image_228_pregunta.jpg",
+        "fallbackFile": "images/vocabulary/image_228.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S09",
+        "es": "respuesta",
+        "en": "answer",
+        "emoji": "💬",
+        "imageNumber": 229,
+        "originalFile": "image_229_respuesta.jpg",
+        "fallbackFile": "images/vocabulary/image_229.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M23S10",
+        "es": "porque",
+        "en": "because",
+        "emoji": "💬",
+        "imageNumber": 230,
+        "originalFile": "image_230_porque.jpg",
+        "fallbackFile": "images/vocabulary/image_230.svg",
+        "subject": "Questions & Answers",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Let’s Talk Spanish",
+    "icon": "💬",
+    "theme": 3,
+    "stops": [
+      {
+        "id": "V650M24S01",
+        "es": "mirar",
+        "en": "to look",
+        "emoji": "👀",
+        "imageNumber": 231,
+        "originalFile": "image_231_mirar.jpg",
+        "fallbackFile": "images/vocabulary/image_231.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S02",
+        "es": "escuchar",
+        "en": "to listen",
+        "emoji": "👂",
+        "imageNumber": 232,
+        "originalFile": "image_232_escuchar.jpg",
+        "fallbackFile": "images/vocabulary/image_232.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S03",
+        "es": "hablar",
+        "en": "to speak",
+        "emoji": "🗣️",
+        "imageNumber": 233,
+        "originalFile": "image_233_hablar.jpg",
+        "fallbackFile": "images/vocabulary/image_233.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S04",
+        "es": "leer",
+        "en": "to read",
+        "emoji": "📖",
+        "imageNumber": 234,
+        "originalFile": "image_234_leer.jpg",
+        "fallbackFile": "images/vocabulary/image_234.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S05",
+        "es": "escribir",
+        "en": "to write",
+        "emoji": "✍️",
+        "imageNumber": 235,
+        "originalFile": "image_235_escribir.jpg",
+        "fallbackFile": "images/vocabulary/image_235.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S06",
+        "es": "venir",
+        "en": "to come",
+        "emoji": "👋",
+        "imageNumber": 236,
+        "originalFile": "image_236_venir.jpg",
+        "fallbackFile": "images/vocabulary/image_236.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S07",
+        "es": "ir",
+        "en": "to go",
+        "emoji": "🚶",
+        "imageNumber": 237,
+        "originalFile": "image_237_ir.jpg",
+        "fallbackFile": "images/vocabulary/image_237.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S08",
+        "es": "querer",
+        "en": "to want / love",
+        "emoji": "❤️",
+        "imageNumber": 238,
+        "originalFile": "image_238_querer.jpg",
+        "fallbackFile": "images/vocabulary/image_238.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S09",
+        "es": "tener",
+        "en": "to have",
+        "emoji": "🤲",
+        "imageNumber": 239,
+        "originalFile": "image_239_tener.jpg",
+        "fallbackFile": "images/vocabulary/image_239.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      },
+      {
+        "id": "V650M24S10",
+        "es": "ser",
+        "en": "to be",
+        "emoji": "🧍",
+        "imageNumber": 240,
+        "originalFile": "image_240_ser.jpg",
+        "fallbackFile": "images/vocabulary/image_240.svg",
+        "subject": "Let’s Talk Spanish",
+        "scene": "concept"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Graduation: Around Town",
+    "icon": "🏙️",
+    "theme": 4,
+    "stops": [
+      {
+        "id": "V650M25S01",
+        "es": "edificio",
+        "en": "building",
+        "emoji": "🏢",
+        "imageNumber": 241,
+        "originalFile": "image_241_edificio.jpg",
+        "fallbackFile": "images/vocabulary/image_241.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S02",
+        "es": "tienda",
+        "en": "store",
+        "emoji": "🏪",
+        "imageNumber": 242,
+        "originalFile": "image_242_tienda.jpg",
+        "fallbackFile": "images/vocabulary/image_242.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S03",
+        "es": "hospital",
+        "en": "hospital",
+        "emoji": "🏥",
+        "imageNumber": 243,
+        "originalFile": "image_243_hospital.jpg",
+        "fallbackFile": "images/vocabulary/image_243.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S04",
+        "es": "parque",
+        "en": "park",
+        "emoji": "🌳",
+        "imageNumber": 244,
+        "originalFile": "image_244_parque.jpg",
+        "fallbackFile": "images/vocabulary/image_244.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S05",
+        "es": "plaza",
+        "en": "town square",
+        "emoji": "⛲",
+        "imageNumber": 245,
+        "originalFile": "image_245_plaza.jpg",
+        "fallbackFile": "images/vocabulary/image_245.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S06",
+        "es": "semáforo",
+        "en": "traffic light",
+        "emoji": "🚦",
+        "imageNumber": 246,
+        "originalFile": "image_246_semaforo.jpg",
+        "fallbackFile": "images/vocabulary/image_246.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S07",
+        "es": "biblioteca",
+        "en": "library",
+        "emoji": "📚",
+        "imageNumber": 247,
+        "originalFile": "image_247_biblioteca.jpg",
+        "fallbackFile": "images/vocabulary/image_247.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S08",
+        "es": "mercado",
+        "en": "market",
+        "emoji": "🛒",
+        "imageNumber": 248,
+        "originalFile": "image_248_mercado.jpg",
+        "fallbackFile": "images/vocabulary/image_248.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S09",
+        "es": "piscina",
+        "en": "swimming pool",
+        "emoji": "🏊",
+        "imageNumber": 249,
+        "originalFile": "image_249_piscina.jpg",
+        "fallbackFile": "images/vocabulary/image_249.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      },
+      {
+        "id": "V650M25S10",
+        "es": "museo",
+        "en": "museum",
+        "emoji": "🏛️",
+        "imageNumber": 250,
+        "originalFile": "image_250_museo.jpg",
+        "fallbackFile": "images/vocabulary/image_250.svg",
+        "subject": "Graduation: Around Town",
+        "scene": "object"
+      }
+    ]
+  }
+]

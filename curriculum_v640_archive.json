@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "title": "Hello & Goodbye",
+    "icon": "🌷",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "perro",
+        "en": "dog",
+        "emoji": "📖",
+        "originalFile": "img_m1_1.jpg",
+        "scene": "object",
+        "id": "C01S01"
+      },
+      {
+        "es": "gato",
+        "en": "cat",
+        "emoji": "📖",
+        "originalFile": "img_m1_2.jpg",
+        "scene": "object",
+        "id": "C01S02"
+      },
+      {
+        "es": "pez",
+        "en": "fish",
+        "emoji": "📖",
+        "originalFile": "img_m1_3.jpg",
+        "scene": "object",
+        "id": "C01S03"
+      },
+      {
+        "es": "pajaro",
+        "en": "bird",
+        "emoji": "📖",
+        "originalFile": "img_m1_4.jpg",
+        "scene": "object",
+        "id": "C01S04"
+      },
+      {
+        "es": "conejo",
+        "en": "rabbit",
+        "emoji": "📖",
+        "originalFile": "img_m1_5.jpg",
+        "scene": "object",
+        "id": "C01S05"
+      },
+      {
+        "es": "hamster",
+        "en": "hamster",
+        "emoji": "📖",
+        "originalFile": "img_m1_6.jpg",
+        "scene": "object",
+        "id": "C01S06"
+      },
+      {
+        "es": "tortuga",
+        "en": "turtle",
+        "emoji": "📖",
+        "originalFile": "img_m1_7.jpg",
+        "scene": "object",
+        "id": "C01S07"
+      },
+      {
+        "es": "caballo",
+        "en": "horse",
+        "emoji": "📖",
+        "originalFile": "img_m1_8.jpg",
+        "scene": "object",
+        "id": "C01S08"
+      },
+      {
+        "es": "loro",
+        "en": "parrot",
+        "emoji": "📖",
+        "originalFile": "img_m1_9.jpg",
+        "scene": "object",
+        "id": "C01S09"
+      },
+      {
+        "es": "cobaya",
+        "en": "guinea pig",
+        "emoji": "📖",
+        "originalFile": "img_m1_10.jpg",
+        "scene": "object",
+        "id": "C01S10"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Please & Thank You",
+    "icon": "🐰",
+    "theme": 1,
+    "stops": [
+      {
+        "es": "vaca",
+        "en": "cow",
+        "emoji": "📖",
+        "originalFile": "img_m2_1.jpg",
+        "scene": "object",
+        "id": "C02S01"
+      },
+      {
+        "es": "cerdo",
+        "en": "pig",
+        "emoji": "📖",
+        "originalFile": "img_m2_2.jpg",
+        "scene": "object",
+        "id": "C02S02"
+      },
+      {
+        "es": "oveja",
+        "en": "sheep",
+        "emoji": "📖",
+        "originalFile": "img_m2_3.jpg",
+        "scene": "object",
+        "id": "C02S03"
+      },
+      {
+        "es": "gallina",
+        "en": "hen",
+        "emoji": "📖",
+        "originalFile": "img_m2_4.jpg",
+        "scene": "object",
+        "id": "C02S04"
+      },
+      {
+        "es": "pato",
+        "en": "duck",
+        "emoji": "📖",
+        "originalFile": "img_m2_5.jpg",
+        "scene": "object",
+        "id": "C02S05"
+      },
+      {
+        "es": "ganso",
+        "en": "goose",
+        "emoji": "📖",
+        "originalFile": "img_m2_6.jpg",
+        "scene": "object",
+        "id": "C02S06"
+      },
+      {
+        "es": "cabra",
+        "en": "goat",
+        "emoji": "📖",
+        "originalFile": "img_m2_7.jpg",
+        "scene": "object",
+        "id": "C02S07"
+      },
+      {
+        "es": "burro",
+        "en": "donkey",
+        "emoji": "📖",
+        "originalFile": "img_m2_8.jpg",
+        "scene": "object",
+        "id": "C02S08"
+      },
+      {
+        "es": "gallo",
+        "en": "rooster",
+        "emoji": "📖",
+        "originalFile": "img_m2_9.jpg",
+        "scene": "object",
+        "id": "C02S09"
+      },
+      {
+        "es": "mula",
+        "en": "mule",
+        "emoji": "📖",
+        "originalFile": "img_m2_10.jpg",
+        "scene": "object",
+        "id": "C02S10"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "My Name & Friends",
+    "icon": "🦊",
+    "theme": 2,
+    "stops": [
+      {
+        "es": "leon",
+        "en": "lion",
+        "emoji": "📖",
+        "originalFile": "img_m3_1.jpg",
+        "scene": "object",
+        "id": "C03S01"
+      },
+      {
+        "es": "tigre",
+        "en": "tiger",
+        "emoji": "📖",
+        "originalFile": "img_m3_2.jpg",
+        "scene": "object",
+        "id": "C03S02"
+      },
+      {
+        "es": "mono",
+        "en": "monkey",
+        "emoji": "📖",
+        "originalFile": "img_m3_3.jpg",
+        "scene": "object",
+        "id": "C03S03"
+      },
+      {
+        "es": "elefante",
+        "en": "elephant",
+        "emoji": "📖",
+        "originalFile": "img_m3_4.jpg",
+        "scene": "object",
+        "id": "C03S04"
+      },
+      {
+        "es": "jirafa",
+        "en": "giraffe",
+        "emoji": "📖",
+        "originalFile": "img_m3_5.jpg",
+        "scene": "object",
+        "id": "C03S05"
+      },
+      {
+        "es": "cebra",
+        "en": "zebra",
+        "emoji": "📖",
+        "originalFile": "img_m3_6.jpg",
+        "scene": "object",
+        "id": "C03S06"
+      },
+      {
+        "es": "oso",
+        "en": "bear",
+        "emoji": "📖",
+        "originalFile": "img_m3_7.jpg",
+        "scene": "object",
+        "id": "C03S07"
+      },
+      {
+        "es": "lobo",
+        "en": "wolf",
+        "emoji": "📖",
+        "originalFile": "img_m3_8.jpg",
+        "scene": "object",
+        "id": "C03S08"
+      },
+      {
+        "es": "zorro",
+        "en": "fox",
+        "emoji": "📖",
+        "originalFile": "img_m3_9.jpg",
+        "scene": "object",
+        "id": "C03S09"
+      },
+      {
+        "es": "panda",
+        "en": "panda",
+        "emoji": "📖",
+        "originalFile": "img_m3_10.jpg",
+        "scene": "object",
+        "id": "C03S10"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "My Family",
+    "icon": "🏡",
+    "theme": 3,
+    "stops": [
+      {
+        "es": "tiburon",
+        "en": "shark",
+        "emoji": "📖",
+        "originalFile": "img_m4_1.jpg",
+        "scene": "object",
+        "id": "C04S01"
+      },
+      {
+        "es": "ballena",
+        "en": "whale",
+        "emoji": "📖",
+        "originalFile": "img_m4_2.jpg",
+        "scene": "object",
+        "id": "C04S02"
+      },
+      {
+        "es": "delfin",
+        "en": "dolphin",
+        "emoji": "📖",
+        "originalFile": "img_m4_3.jpg",
+        "scene": "object",
+        "id": "C04S03"
+      },
+      {
+        "es": "pulpo",
+        "en": "octopus",
+        "emoji": "📖",
+        "originalFile": "img_m4_4.jpg",
+        "scene": "object",
+        "id": "C04S04"
+      },
+      {
+        "es": "cangrejo",
+        "en": "crab",
+        "emoji": "📖",
+        "originalFile": "img_m4_5.jpg",
+        "scene": "object",
+        "id": "C04S05"
+      },
+      {
+        "es": "estrella",
+        "en": "starfish",
+        "emoji": "📖",
+        "originalFile": "img_m4_6.jpg",
+        "scene": "object",
+        "id": "C04S06"
+      },
+      {
+        "es": "foca",
+        "en": "seal",
+        "emoji": "📖",
+        "originalFile": "img_m4_7.jpg",
+        "scene": "object",
+        "id": "C04S07"
+      },
+      {
+        "es": "pinguino",
+        "en": "penguin",
+        "emoji": "📖",
+        "originalFile": "img_m4_8.jpg",
+        "scene": "object",
+        "id": "C04S08"
+      },
+      {
+        "es": "medusa",
+        "en": "jellyfish",
+        "emoji": "📖",
+        "originalFile": "img_m4_9.jpg",
+        "scene": "object",
+        "id": "C04S09"
+      },
+      {
+        "es": "camaron",
+        "en": "shrimp",
+        "emoji": "📖",
+        "originalFile": "img_m4_10.jpg",
+        "scene": "object",
+        "id": "C04S10"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "My Feelings",
+    "icon": "💗",
+    "theme": 4,
+    "stops": [
+      {
+        "es": "mariposa",
+        "en": "butterfly",
+        "emoji": "📖",
+        "originalFile": "img_m5_1.jpg",
+        "scene": "object",
+        "id": "C05S01"
+      },
+      {
+        "es": "abeja",
+        "en": "bee",
+        "emoji": "📖",
+        "originalFile": "img_m5_2.jpg",
+        "scene": "object",
+        "id": "C05S02"
+      },
+      {
+        "es": "hormiga",
+        "en": "ant",
+        "emoji": "📖",
+        "originalFile": "img_m5_3.jpg",
+        "scene": "object",
+        "id": "C05S03"
+      },
+      {
+        "es": "mosca",
+        "en": "fly",
+        "emoji": "📖",
+        "originalFile": "img_m5_4.jpg",
+        "scene": "object",
+        "id": "C05S04"
+      },
+      {
+        "es": "mosquito",
+        "en": "mosquito",
+        "emoji": "📖",
+        "originalFile": "img_m5_5.jpg",
+        "scene": "object",
+        "id": "C05S05"
+      },
+      {
+        "es": "arana",
+        "en": "spider",
+        "emoji": "📖",
+        "originalFile": "img_m5_6.jpg",
+        "scene": "object",
+        "id": "C05S06"
+      },
+      {
+        "es": "escarabajo",
+        "en": "beetle",
+        "emoji": "📖",
+        "originalFile": "img_m5_7.jpg",
+        "scene": "object",
+        "id": "C05S07"
+      },
+      {
+        "es": "saltamontes",
+        "en": "grasshopper",
+        "emoji": "📖",
+        "originalFile": "img_m5_8.jpg",
+        "scene": "object",
+        "id": "C05S08"
+      },
+      {
+        "es": "grillo",
+        "en": "cricket",
+        "emoji": "📖",
+        "originalFile": "img_m5_9.jpg",
+        "scene": "object",
+        "id": "C05S09"
+      },
+      {
+        "es": "ciempies",
+        "en": "centipede",
+        "emoji": "📖",
+        "originalFile": "img_m5_10.jpg",
+        "scene": "object",
+        "id": "C05S10"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Numbers 1–10",
+    "icon": "🔢",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "manzana",
+        "en": "apple",
+        "emoji": "📖",
+        "originalFile": "img_m6_1.jpg",
+        "scene": "object",
+        "id": "C06S01"
+      },
+      {
+        "es": "platano",
+        "en": "banana",
+        "emoji": "📖",
+        "originalFile": "img_m6_2.jpg",
+        "scene": "object",
+        "id": "C06S02"
+      },
+      {
+        "es": "naranja",
+        "en": "orange",
+        "emoji": "📖",
+        "originalFile": "img_m6_3.jpg",
+        "scene": "object",
+        "id": "C06S03"
+      },
+      {
+        "es": "uvas",
+        "en": "grapes",
+        "emoji": "📖",
+        "originalFile": "img_m6_4.jpg",
+        "scene": "object",
+        "id": "C06S04"
+      },
+      {
+        "es": "fresa",
+        "en": "strawberry",
+        "emoji": "📖",
+        "originalFile": "img_m6_5.jpg",
+        "scene": "object",
+        "id": "C06S05"
+      },
+      {
+        "es": "sandia",
+        "en": "watermelon",
+        "emoji": "📖",
+        "originalFile": "img_m6_6.jpg",
+        "scene": "object",
+        "id": "C06S06"
+      },
+      {
+        "es": "melon",
+        "en": "melon",
+        "emoji": "📖",
+        "originalFile": "img_m6_7.jpg",
+        "scene": "object",
+        "id": "C06S07"
+      },
+      {
+        "es": "pina",
+        "en": "pineapple",
+        "emoji": "📖",
+        "originalFile": "img_m6_8.jpg",
+        "scene": "object",
+        "id": "C06S08"
+      },
+      {
+        "es": "pera",
+        "en": "pear",
+        "emoji": "📖",
+        "originalFile": "img_m6_9.jpg",
+        "scene": "object",
+        "id": "C06S09"
+      },
+      {
+        "es": "limon",
+        "en": "lemon",
+        "emoji": "📖",
+        "originalFile": "img_m6_10.jpg",
+        "scene": "object",
+        "id": "C06S10"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Colors",
+    "icon": "🎨",
+    "theme": 1,
+    "stops": [
+      {
+        "es": "zanahoria",
+        "en": "carrot",
+        "emoji": "📖",
+        "originalFile": "img_m7_1.jpg",
+        "scene": "object",
+        "id": "C07S01"
+      },
+      {
+        "es": "tomate",
+        "en": "tomato",
+        "emoji": "📖",
+        "originalFile": "img_m7_2.jpg",
+        "scene": "object",
+        "id": "C07S02"
+      },
+      {
+        "es": "lechuga",
+        "en": "lettuce",
+        "emoji": "📖",
+        "originalFile": "img_m7_3.jpg",
+        "scene": "object",
+        "id": "C07S03"
+      },
+      {
+        "es": "cebolla",
+        "en": "onion",
+        "emoji": "📖",
+        "originalFile": "img_m7_4.jpg",
+        "scene": "object",
+        "id": "C07S04"
+      },
+      {
+        "es": "ajo",
+        "en": "garlic",
+        "emoji": "📖",
+        "originalFile": "img_m7_5.jpg",
+        "scene": "object",
+        "id": "C07S05"
+      },
+      {
+        "es": "brocoli",
+        "en": "broccoli",
+        "emoji": "📖",
+        "originalFile": "img_m7_6.jpg",
+        "scene": "object",
+        "id": "C07S06"
+      },
+      {
+        "es": "papa",
+        "en": "potato",
+        "emoji": "📖",
+        "originalFile": "img_m7_7.jpg",
+        "scene": "object",
+        "id": "C07S07"
+      },
+      {
+        "es": "pepino",
+        "en": "cucumber",
+        "emoji": "📖",
+        "originalFile": "img_m7_8.jpg",
+        "scene": "object",
+        "id": "C07S08"
+      },
+      {
+        "es": "maiz",
+        "en": "corn",
+        "emoji": "📖",
+        "originalFile": "img_m7_9.jpg",
+        "scene": "object",
+        "id": "C07S09"
+      },
+      {
+        "es": "chile",
+        "en": "chili pepper",
+        "emoji": "📖",
+        "originalFile": "img_m7_10.jpg",
+        "scene": "object",
+        "id": "C07S10"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "My Body",
+    "icon": "🧸",
+    "theme": 2,
+    "stops": [
+      {
+        "es": "leche",
+        "en": "milk",
+        "emoji": "📖",
+        "originalFile": "img_m8_1.jpg",
+        "scene": "object",
+        "id": "C08S01"
+      },
+      {
+        "es": "agua",
+        "en": "water",
+        "emoji": "📖",
+        "originalFile": "img_m8_2.jpg",
+        "scene": "object",
+        "id": "C08S02"
+      },
+      {
+        "es": "jugo",
+        "en": "juice",
+        "emoji": "📖",
+        "originalFile": "img_m8_3.jpg",
+        "scene": "object",
+        "id": "C08S03"
+      },
+      {
+        "es": "pastel",
+        "en": "cake",
+        "emoji": "📖",
+        "originalFile": "img_m8_4.jpg",
+        "scene": "object",
+        "id": "C08S04"
+      },
+      {
+        "es": "galleta",
+        "en": "cookie",
+        "emoji": "📖",
+        "originalFile": "img_m8_5.jpg",
+        "scene": "object",
+        "id": "C08S05"
+      },
+      {
+        "es": "helado",
+        "en": "ice cream",
+        "emoji": "📖",
+        "originalFile": "img_m8_6.jpg",
+        "scene": "object",
+        "id": "C08S06"
+      },
+      {
+        "es": "chocolate",
+        "en": "chocolate",
+        "emoji": "📖",
+        "originalFile": "img_m8_7.jpg",
+        "scene": "object",
+        "id": "C08S07"
+      },
+      {
+        "es": "caramelo",
+        "en": "candy",
+        "emoji": "📖",
+        "originalFile": "img_m8_8.jpg",
+        "scene": "object",
+        "id": "C08S08"
+      },
+      {
+        "es": "pan",
+        "en": "bread",
+        "emoji": "📖",
+        "originalFile": "img_m8_9.jpg",
+        "scene": "object",
+        "id": "C08S09"
+      },
+      {
+        "es": "queso",
+        "en": "cheese",
+        "emoji": "📖",
+        "originalFile": "img_m8_10.jpg",
+        "scene": "object",
+        "id": "C08S10"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "My Home",
+    "icon": "🏠",
+    "theme": 3,
+    "stops": [
+      {
+        "es": "huevo",
+        "en": "egg",
+        "emoji": "📖",
+        "originalFile": "img_m9_1.jpg",
+        "scene": "object",
+        "id": "C09S01"
+      },
+      {
+        "es": "tocino",
+        "en": "bacon",
+        "emoji": "📖",
+        "originalFile": "img_m9_2.jpg",
+        "scene": "object",
+        "id": "C09S02"
+      },
+      {
+        "es": "cereal",
+        "en": "cereal",
+        "emoji": "📖",
+        "originalFile": "img_m9_3.jpg",
+        "scene": "object",
+        "id": "C09S03"
+      },
+      {
+        "es": "avena",
+        "en": "oatmeal",
+        "emoji": "📖",
+        "originalFile": "img_m9_4.jpg",
+        "scene": "object",
+        "id": "C09S04"
+      },
+      {
+        "es": "yogur",
+        "en": "yogurt",
+        "emoji": "📖",
+        "originalFile": "img_m9_5.jpg",
+        "scene": "object",
+        "id": "C09S05"
+      },
+      {
+        "es": "miel",
+        "en": "honey",
+        "emoji": "📖",
+        "originalFile": "img_m9_6.jpg",
+        "scene": "object",
+        "id": "C09S06"
+      },
+      {
+        "es": "mantequilla",
+        "en": "butter",
+        "emoji": "📖",
+        "originalFile": "img_m9_7.jpg",
+        "scene": "object",
+        "id": "C09S07"
+      },
+      {
+        "es": "te",
+        "en": "tea",
+        "emoji": "📖",
+        "originalFile": "img_m9_8.jpg",
+        "scene": "object",
+        "id": "C09S08"
+      },
+      {
+        "es": "taza",
+        "en": "cup",
+        "emoji": "📖",
+        "originalFile": "img_m9_9.jpg",
+        "scene": "object",
+        "id": "C09S09"
+      },
+      {
+        "es": "plato",
+        "en": "plate",
+        "emoji": "📖",
+        "originalFile": "img_m9_10.jpg",
+        "scene": "object",
+        "id": "C09S10"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Food & Drinks",
+    "icon": "🍎",
+    "theme": 4,
+    "stops": [
+      {
+        "es": "cama",
+        "en": "bed",
+        "emoji": "📖",
+        "originalFile": "img_m10_1.jpg",
+        "scene": "object",
+        "id": "C10S01"
+      },
+      {
+        "es": "almohada",
+        "en": "pillow",
+        "emoji": "📖",
+        "originalFile": "img_m10_2.jpg",
+        "scene": "object",
+        "id": "C10S02"
+      },
+      {
+        "es": "manta",
+        "en": "blanket",
+        "emoji": "📖",
+        "originalFile": "img_m10_3.jpg",
+        "scene": "object",
+        "id": "C10S03"
+      },
+      {
+        "es": "reloj",
+        "en": "clock",
+        "emoji": "📖",
+        "originalFile": "img_m10_4.jpg",
+        "scene": "object",
+        "id": "C10S04"
+      },
+      {
+        "es": "lampara",
+        "en": "lamp",
+        "emoji": "📖",
+        "originalFile": "img_m10_5.jpg",
+        "scene": "object",
+        "id": "C10S05"
+      },
+      {
+        "es": "puerta",
+        "en": "door",
+        "emoji": "📖",
+        "originalFile": "img_m10_6.jpg",
+        "scene": "object",
+        "id": "C10S06"
+      },
+      {
+        "es": "ventana",
+        "en": "window",
+        "emoji": "📖",
+        "originalFile": "img_m10_7.jpg",
+        "scene": "object",
+        "id": "C10S07"
+      },
+      {
+        "es": "armario",
+        "en": "closet",
+        "emoji": "📖",
+        "originalFile": "img_m10_8.jpg",
+        "scene": "object",
+        "id": "C10S08"
+      },
+      {
+        "es": "alfombra",
+        "en": "rug",
+        "emoji": "📖",
+        "originalFile": "img_m10_9.jpg",
+        "scene": "object",
+        "id": "C10S09"
+      },
+      {
+        "es": "espejo",
+        "en": "mirror",
+        "emoji": "📖",
+        "originalFile": "img_m10_10.jpg",
+        "scene": "object",
+        "id": "C10S10"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Clothes",
+    "icon": "🧥",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "mesa",
+        "en": "table",
+        "emoji": "📖",
+        "originalFile": "img_m11_1.jpg",
+        "scene": "object",
+        "id": "C11S01"
+      },
+      {
+        "es": "silla",
+        "en": "chair",
+        "emoji": "📖",
+        "originalFile": "img_m11_2.jpg",
+        "scene": "object",
+        "id": "C11S02"
+      },
+      {
+        "es": "cuchara",
+        "en": "spoon",
+        "emoji": "📖",
+        "originalFile": "img_m11_3.jpg",
+        "scene": "object",
+        "id": "C11S03"
+      },
+      {
+        "es": "tenedor",
+        "en": "fork",
+        "emoji": "📖",
+        "originalFile": "img_m11_4.jpg",
+        "scene": "object",
+        "id": "C11S04"
+      },
+      {
+        "es": "cuchillo",
+        "en": "knife",
+        "emoji": "📖",
+        "originalFile": "img_m11_5.jpg",
+        "scene": "object",
+        "id": "C11S05"
+      },
+      {
+        "es": "vaso",
+        "en": "glass",
+        "emoji": "📖",
+        "originalFile": "img_m11_6.jpg",
+        "scene": "object",
+        "id": "C11S06"
+      },
+      {
+        "es": "tazon",
+        "en": "bowl",
+        "emoji": "📖",
+        "originalFile": "img_m11_7.jpg",
+        "scene": "object",
+        "id": "C11S07"
+      },
+      {
+        "es": "olla",
+        "en": "pot",
+        "emoji": "📖",
+        "originalFile": "img_m11_8.jpg",
+        "scene": "object",
+        "id": "C11S08"
+      },
+      {
+        "es": "sarten",
+        "en": "pan",
+        "emoji": "📖",
+        "originalFile": "img_m11_9.jpg",
+        "scene": "object",
+        "id": "C11S09"
+      },
+      {
+        "es": "refrigerador",
+        "en": "fridge",
+        "emoji": "📖",
+        "originalFile": "img_m11_10.jpg",
+        "scene": "object",
+        "id": "C11S10"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "School & Play",
+    "icon": "📚",
+    "theme": 1,
+    "stops": [
+      {
+        "es": "jabon",
+        "en": "soap",
+        "emoji": "📖",
+        "originalFile": "img_m12_1.jpg",
+        "scene": "object",
+        "id": "C12S01"
+      },
+      {
+        "es": "toalla",
+        "en": "towel",
+        "emoji": "📖",
+        "originalFile": "img_m12_2.jpg",
+        "scene": "object",
+        "id": "C12S02"
+      },
+      {
+        "es": "cepillo",
+        "en": "brush",
+        "emoji": "📖",
+        "originalFile": "img_m12_3.jpg",
+        "scene": "object",
+        "id": "C12S03"
+      },
+      {
+        "es": "pasta",
+        "en": "toothpaste",
+        "emoji": "📖",
+        "originalFile": "img_m12_4.jpg",
+        "scene": "object",
+        "id": "C12S04"
+      },
+      {
+        "es": "ducha",
+        "en": "shower",
+        "emoji": "📖",
+        "originalFile": "img_m12_5.jpg",
+        "scene": "object",
+        "id": "C12S05"
+      },
+      {
+        "es": "banera",
+        "en": "bathtub",
+        "emoji": "📖",
+        "originalFile": "img_m12_6.jpg",
+        "scene": "object",
+        "id": "C12S06"
+      },
+      {
+        "es": "inodoro",
+        "en": "toilet",
+        "emoji": "📖",
+        "originalFile": "img_m12_7.jpg",
+        "scene": "object",
+        "id": "C12S07"
+      },
+      {
+        "es": "papel",
+        "en": "paper",
+        "emoji": "📖",
+        "originalFile": "img_m12_8.jpg",
+        "scene": "object",
+        "id": "C12S08"
+      },
+      {
+        "es": "lavamanos",
+        "en": "sink",
+        "emoji": "📖",
+        "originalFile": "img_m12_9.jpg",
+        "scene": "object",
+        "id": "C12S09"
+      },
+      {
+        "es": "secador",
+        "en": "dryer",
+        "emoji": "📖",
+        "originalFile": "img_m12_10.jpg",
+        "scene": "object",
+        "id": "C12S10"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Pets",
+    "icon": "🐶",
+    "theme": 2,
+    "stops": [
+      {
+        "es": "sofa",
+        "en": "sofa",
+        "emoji": "📖",
+        "originalFile": "img_m13_1.jpg",
+        "scene": "object",
+        "id": "C13S01"
+      },
+      {
+        "es": "tele",
+        "en": "TV",
+        "emoji": "📖",
+        "originalFile": "img_m13_2.jpg",
+        "scene": "object",
+        "id": "C13S02"
+      },
+      {
+        "es": "libro",
+        "en": "book",
+        "emoji": "📖",
+        "originalFile": "img_m13_3.jpg",
+        "scene": "object",
+        "id": "C13S03"
+      },
+      {
+        "es": "pelota",
+        "en": "ball",
+        "emoji": "📖",
+        "originalFile": "img_m13_4.jpg",
+        "scene": "object",
+        "id": "C13S04"
+      },
+      {
+        "es": "muneca",
+        "en": "doll",
+        "emoji": "📖",
+        "originalFile": "img_m13_5.jpg",
+        "scene": "object",
+        "id": "C13S05"
+      },
+      {
+        "es": "carrito",
+        "en": "toy car",
+        "emoji": "📖",
+        "originalFile": "img_m13_6.jpg",
+        "scene": "object",
+        "id": "C13S06"
+      },
+      {
+        "es": "bloque",
+        "en": "block",
+        "emoji": "📖",
+        "originalFile": "img_m13_7.jpg",
+        "scene": "object",
+        "id": "C13S07"
+      },
+      {
+        "es": "rompecabezas",
+        "en": "puzzle",
+        "emoji": "📖",
+        "originalFile": "img_m13_8.jpg",
+        "scene": "object",
+        "id": "C13S08"
+      },
+      {
+        "es": "crayon",
+        "en": "crayon",
+        "emoji": "📖",
+        "originalFile": "img_m13_9.jpg",
+        "scene": "object",
+        "id": "C13S09"
+      },
+      {
+        "es": "plastilina",
+        "en": "playdough",
+        "emoji": "📖",
+        "originalFile": "img_m13_10.jpg",
+        "scene": "object",
+        "id": "C13S10"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Farm Animals",
+    "icon": "🐮",
+    "theme": 3,
+    "stops": [
+      {
+        "es": "camisa",
+        "en": "shirt",
+        "emoji": "📖",
+        "originalFile": "img_m14_1.jpg",
+        "scene": "object",
+        "id": "C14S01"
+      },
+      {
+        "es": "pantalon",
+        "en": "pants",
+        "emoji": "📖",
+        "originalFile": "img_m14_2.jpg",
+        "scene": "object",
+        "id": "C14S02"
+      },
+      {
+        "es": "vestido",
+        "en": "dress",
+        "emoji": "📖",
+        "originalFile": "img_m14_3.jpg",
+        "scene": "object",
+        "id": "C14S03"
+      },
+      {
+        "es": "falda",
+        "en": "skirt",
+        "emoji": "📖",
+        "originalFile": "img_m14_4.jpg",
+        "scene": "object",
+        "id": "C14S04"
+      },
+      {
+        "es": "shorts",
+        "en": "shorts",
+        "emoji": "📖",
+        "originalFile": "img_m14_5.jpg",
+        "scene": "object",
+        "id": "C14S05"
+      },
+      {
+        "es": "abrigo",
+        "en": "coat",
+        "emoji": "📖",
+        "originalFile": "img_m14_6.jpg",
+        "scene": "object",
+        "id": "C14S06"
+      },
+      {
+        "es": "sueter",
+        "en": "sweater",
+        "emoji": "📖",
+        "originalFile": "img_m14_7.jpg",
+        "scene": "object",
+        "id": "C14S07"
+      },
+      {
+        "es": "calcetines",
+        "en": "socks",
+        "emoji": "📖",
+        "originalFile": "img_m14_8.jpg",
+        "scene": "object",
+        "id": "C14S08"
+      },
+      {
+        "es": "gorra",
+        "en": "cap",
+        "emoji": "📖",
+        "originalFile": "img_m14_9.jpg",
+        "scene": "object",
+        "id": "C14S09"
+      },
+      {
+        "es": "bufanda",
+        "en": "scarf",
+        "emoji": "📖",
+        "originalFile": "img_m14_10.jpg",
+        "scene": "object",
+        "id": "C14S10"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Wild Animals",
+    "icon": "🦁",
+    "theme": 4,
+    "stops": [
+      {
+        "es": "zapato",
+        "en": "shoe",
+        "emoji": "📖",
+        "originalFile": "img_m15_1.jpg",
+        "scene": "object",
+        "id": "C15S01"
+      },
+      {
+        "es": "bota",
+        "en": "boot",
+        "emoji": "📖",
+        "originalFile": "img_m15_2.jpg",
+        "scene": "object",
+        "id": "C15S02"
+      },
+      {
+        "es": "sandalia",
+        "en": "sandal",
+        "emoji": "📖",
+        "originalFile": "img_m15_3.jpg",
+        "scene": "object",
+        "id": "C15S03"
+      },
+      {
+        "es": "mochila",
+        "en": "backpack",
+        "emoji": "📖",
+        "originalFile": "img_m15_4.jpg",
+        "scene": "object",
+        "id": "C15S04"
+      },
+      {
+        "es": "bolso",
+        "en": "bag",
+        "emoji": "📖",
+        "originalFile": "img_m15_5.jpg",
+        "scene": "object",
+        "id": "C15S05"
+      },
+      {
+        "es": "llaves",
+        "en": "keys",
+        "emoji": "📖",
+        "originalFile": "img_m15_6.jpg",
+        "scene": "object",
+        "id": "C15S06"
+      },
+      {
+        "es": "gafas",
+        "en": "glasses",
+        "emoji": "📖",
+        "originalFile": "img_m15_7.jpg",
+        "scene": "object",
+        "id": "C15S07"
+      },
+      {
+        "es": "anillo",
+        "en": "ring",
+        "emoji": "📖",
+        "originalFile": "img_m15_8.jpg",
+        "scene": "object",
+        "id": "C15S08"
+      },
+      {
+        "es": "collar",
+        "en": "necklace",
+        "emoji": "📖",
+        "originalFile": "img_m15_9.jpg",
+        "scene": "object",
+        "id": "C15S09"
+      },
+      {
+        "es": "pulsera",
+        "en": "bracelet",
+        "emoji": "📖",
+        "originalFile": "img_m15_10.jpg",
+        "scene": "object",
+        "id": "C15S10"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Nature",
+    "icon": "🌳",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "auto",
+        "en": "car",
+        "emoji": "📖",
+        "originalFile": "img_m16_1.jpg",
+        "scene": "object",
+        "id": "C16S01"
+      },
+      {
+        "es": "camion",
+        "en": "truck",
+        "emoji": "📖",
+        "originalFile": "img_m16_2.jpg",
+        "scene": "object",
+        "id": "C16S02"
+      },
+      {
+        "es": "bus",
+        "en": "bus",
+        "emoji": "📖",
+        "originalFile": "img_m16_3.jpg",
+        "scene": "object",
+        "id": "C16S03"
+      },
+      {
+        "es": "taxi",
+        "en": "taxi",
+        "emoji": "📖",
+        "originalFile": "img_m16_4.jpg",
+        "scene": "object",
+        "id": "C16S04"
+      },
+      {
+        "es": "moto",
+        "en": "motorcycle",
+        "emoji": "📖",
+        "originalFile": "img_m16_5.jpg",
+        "scene": "object",
+        "id": "C16S05"
+      },
+      {
+        "es": "rueda",
+        "en": "wheel",
+        "emoji": "📖",
+        "originalFile": "img_m16_6.jpg",
+        "scene": "object",
+        "id": "C16S06"
+      },
+      {
+        "es": "volante",
+        "en": "steering wheel",
+        "emoji": "📖",
+        "originalFile": "img_m16_7.jpg",
+        "scene": "object",
+        "id": "C16S07"
+      },
+      {
+        "es": "motor",
+        "en": "engine",
+        "emoji": "📖",
+        "originalFile": "img_m16_8.jpg",
+        "scene": "object",
+        "id": "C16S08"
+      },
+      {
+        "es": "gasolina",
+        "en": "gas",
+        "emoji": "📖",
+        "originalFile": "img_m16_9.jpg",
+        "scene": "object",
+        "id": "C16S09"
+      },
+      {
+        "es": "llanta",
+        "en": "tire",
+        "emoji": "📖",
+        "originalFile": "img_m16_10.jpg",
+        "scene": "object",
+        "id": "C16S10"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Weather",
+    "icon": "☀️",
+    "theme": 1,
+    "stops": [
+      {
+        "es": "tren",
+        "en": "train",
+        "emoji": "📖",
+        "originalFile": "img_m17_1.jpg",
+        "scene": "object",
+        "id": "C17S01"
+      },
+      {
+        "es": "barco",
+        "en": "boat",
+        "emoji": "📖",
+        "originalFile": "img_m17_2.jpg",
+        "scene": "object",
+        "id": "C17S02"
+      },
+      {
+        "es": "avion",
+        "en": "airplane",
+        "emoji": "📖",
+        "originalFile": "img_m17_3.jpg",
+        "scene": "object",
+        "id": "C17S03"
+      },
+      {
+        "es": "helicoptero",
+        "en": "helicopter",
+        "emoji": "📖",
+        "originalFile": "img_m17_4.jpg",
+        "scene": "object",
+        "id": "C17S04"
+      },
+      {
+        "es": "cohete",
+        "en": "rocket",
+        "emoji": "📖",
+        "originalFile": "img_m17_5.jpg",
+        "scene": "object",
+        "id": "C17S05"
+      },
+      {
+        "es": "submarino",
+        "en": "submarine",
+        "emoji": "📖",
+        "originalFile": "img_m17_6.jpg",
+        "scene": "object",
+        "id": "C17S06"
+      },
+      {
+        "es": "velero",
+        "en": "sailboat",
+        "emoji": "📖",
+        "originalFile": "img_m17_7.jpg",
+        "scene": "object",
+        "id": "C17S07"
+      },
+      {
+        "es": "canoa",
+        "en": "canoe",
+        "emoji": "📖",
+        "originalFile": "img_m17_8.jpg",
+        "scene": "object",
+        "id": "C17S08"
+      },
+      {
+        "es": "globo",
+        "en": "balloon",
+        "emoji": "📖",
+        "originalFile": "img_m17_9.jpg",
+        "scene": "object",
+        "id": "C17S09"
+      },
+      {
+        "es": "pista",
+        "en": "runway",
+        "emoji": "📖",
+        "originalFile": "img_m17_10.jpg",
+        "scene": "object",
+        "id": "C17S10"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Getting Around",
+    "icon": "🚲",
+    "theme": 2,
+    "stops": [
+      {
+        "es": "bicicleta",
+        "en": "bicycle",
+        "emoji": "📖",
+        "originalFile": "img_m18_1.jpg",
+        "scene": "object",
+        "id": "C18S01"
+      },
+      {
+        "es": "patineta",
+        "en": "skateboard",
+        "emoji": "📖",
+        "originalFile": "img_m18_2.jpg",
+        "scene": "object",
+        "id": "C18S02"
+      },
+      {
+        "es": "patines",
+        "en": "roller skates",
+        "emoji": "📖",
+        "originalFile": "img_m18_3.jpg",
+        "scene": "object",
+        "id": "C18S03"
+      },
+      {
+        "es": "triciclo",
+        "en": "tricycle",
+        "emoji": "📖",
+        "originalFile": "img_m18_4.jpg",
+        "scene": "object",
+        "id": "C18S04"
+      },
+      {
+        "es": "casco",
+        "en": "helmet",
+        "emoji": "📖",
+        "originalFile": "img_m18_5.jpg",
+        "scene": "object",
+        "id": "C18S05"
+      },
+      {
+        "es": "rampa",
+        "en": "ramp",
+        "emoji": "📖",
+        "originalFile": "img_m18_6.jpg",
+        "scene": "object",
+        "id": "C18S06"
+      },
+      {
+        "es": "freno",
+        "en": "brake",
+        "emoji": "📖",
+        "originalFile": "img_m18_7.jpg",
+        "scene": "object",
+        "id": "C18S07"
+      },
+      {
+        "es": "pedal",
+        "en": "pedal",
+        "emoji": "📖",
+        "originalFile": "img_m18_8.jpg",
+        "scene": "object",
+        "id": "C18S08"
+      },
+      {
+        "es": "cadena",
+        "en": "chain",
+        "emoji": "📖",
+        "originalFile": "img_m18_9.jpg",
+        "scene": "object",
+        "id": "C18S09"
+      },
+      {
+        "es": "timbre",
+        "en": "bell",
+        "emoji": "📖",
+        "originalFile": "img_m18_10.jpg",
+        "scene": "object",
+        "id": "C18S10"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Days & Months",
+    "icon": "📅",
+    "theme": 3,
+    "stops": [
+      {
+        "es": "columpio",
+        "en": "swing",
+        "emoji": "📖",
+        "originalFile": "img_m19_1.jpg",
+        "scene": "object",
+        "id": "C19S01"
+      },
+      {
+        "es": "tobogan",
+        "en": "slide",
+        "emoji": "📖",
+        "originalFile": "img_m19_2.jpg",
+        "scene": "object",
+        "id": "C19S02"
+      },
+      {
+        "es": "arenero",
+        "en": "sandbox",
+        "emoji": "📖",
+        "originalFile": "img_m19_3.jpg",
+        "scene": "object",
+        "id": "C19S03"
+      },
+      {
+        "es": "fuente",
+        "en": "fountain",
+        "emoji": "📖",
+        "originalFile": "img_m19_4.jpg",
+        "scene": "object",
+        "id": "C19S04"
+      },
+      {
+        "es": "banco",
+        "en": "bench",
+        "emoji": "📖",
+        "originalFile": "img_m19_5.jpg",
+        "scene": "object",
+        "id": "C19S05"
+      },
+      {
+        "es": "pasto",
+        "en": "grass",
+        "emoji": "📖",
+        "originalFile": "img_m19_6.jpg",
+        "scene": "object",
+        "id": "C19S06"
+      },
+      {
+        "es": "flor",
+        "en": "flower",
+        "emoji": "📖",
+        "originalFile": "img_m19_7.jpg",
+        "scene": "object",
+        "id": "C19S07"
+      },
+      {
+        "es": "camino",
+        "en": "path",
+        "emoji": "📖",
+        "originalFile": "img_m19_8.jpg",
+        "scene": "object",
+        "id": "C19S08"
+      },
+      {
+        "es": "cerca",
+        "en": "fence",
+        "emoji": "📖",
+        "originalFile": "img_m19_9.jpg",
+        "scene": "object",
+        "id": "C19S09"
+      },
+      {
+        "es": "reja",
+        "en": "gate",
+        "emoji": "📖",
+        "originalFile": "img_m19_10.jpg",
+        "scene": "object",
+        "id": "C19S10"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Numbers 11–20",
+    "icon": "🧮",
+    "theme": 4,
+    "stops": [
+      {
+        "es": "arena",
+        "en": "sand",
+        "emoji": "📖",
+        "originalFile": "img_m20_1.jpg",
+        "scene": "object",
+        "id": "C20S01"
+      },
+      {
+        "es": "ola",
+        "en": "wave",
+        "emoji": "📖",
+        "originalFile": "img_m20_2.jpg",
+        "scene": "object",
+        "id": "C20S02"
+      },
+      {
+        "es": "concha",
+        "en": "seashell",
+        "emoji": "📖",
+        "originalFile": "img_m20_3.jpg",
+        "scene": "object",
+        "id": "C20S03"
+      },
+      {
+        "es": "sol",
+        "en": "sun",
+        "emoji": "📖",
+        "originalFile": "img_m20_4.jpg",
+        "scene": "object",
+        "id": "C20S04"
+      },
+      {
+        "es": "sombrilla",
+        "en": "beach umbrella",
+        "emoji": "📖",
+        "originalFile": "img_m20_5.jpg",
+        "scene": "object",
+        "id": "C20S05"
+      },
+      {
+        "es": "castillo",
+        "en": "castle",
+        "emoji": "📖",
+        "originalFile": "img_m20_6.jpg",
+        "scene": "object",
+        "id": "C20S06"
+      },
+      {
+        "es": "cubo",
+        "en": "bucket",
+        "emoji": "📖",
+        "originalFile": "img_m20_7.jpg",
+        "scene": "object",
+        "id": "C20S07"
+      },
+      {
+        "es": "pala",
+        "en": "shovel",
+        "emoji": "📖",
+        "originalFile": "img_m20_8.jpg",
+        "scene": "object",
+        "id": "C20S08"
+      },
+      {
+        "es": "red",
+        "en": "net",
+        "emoji": "📖",
+        "originalFile": "img_m20_9.jpg",
+        "scene": "object",
+        "id": "C20S09"
+      },
+      {
+        "es": "caracol",
+        "en": "snail",
+        "emoji": "📖",
+        "originalFile": "img_m20_10.jpg",
+        "scene": "object",
+        "id": "C20S10"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Telling Time",
+    "icon": "🕰️",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "arbol",
+        "en": "tree",
+        "emoji": "📖",
+        "originalFile": "img_m21_1.jpg",
+        "scene": "object",
+        "id": "C21S01"
+      },
+      {
+        "es": "hoja",
+        "en": "leaf",
+        "emoji": "📖",
+        "originalFile": "img_m21_2.jpg",
+        "scene": "object",
+        "id": "C21S02"
+      },
+      {
+        "es": "rama",
+        "en": "branch",
+        "emoji": "📖",
+        "originalFile": "img_m21_3.jpg",
+        "scene": "object",
+        "id": "C21S03"
+      },
+      {
+        "es": "tronco",
+        "en": "trunk",
+        "emoji": "📖",
+        "originalFile": "img_m21_4.jpg",
+        "scene": "object",
+        "id": "C21S04"
+      },
+      {
+        "es": "raiz",
+        "en": "root",
+        "emoji": "📖",
+        "originalFile": "img_m21_5.jpg",
+        "scene": "object",
+        "id": "C21S05"
+      },
+      {
+        "es": "bosque",
+        "en": "forest",
+        "emoji": "📖",
+        "originalFile": "img_m21_6.jpg",
+        "scene": "object",
+        "id": "C21S06"
+      },
+      {
+        "es": "montana",
+        "en": "mountain",
+        "emoji": "📖",
+        "originalFile": "img_m21_7.jpg",
+        "scene": "object",
+        "id": "C21S07"
+      },
+      {
+        "es": "rio",
+        "en": "river",
+        "emoji": "📖",
+        "originalFile": "img_m21_8.jpg",
+        "scene": "object",
+        "id": "C21S08"
+      },
+      {
+        "es": "lago",
+        "en": "lake",
+        "emoji": "📖",
+        "originalFile": "img_m21_9.jpg",
+        "scene": "object",
+        "id": "C21S09"
+      },
+      {
+        "es": "roca",
+        "en": "rock",
+        "emoji": "📖",
+        "originalFile": "img_m21_10.jpg",
+        "scene": "object",
+        "id": "C21S10"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "My Daily Routine",
+    "icon": "🛏️",
+    "theme": 1,
+    "stops": [
+      {
+        "es": "dia",
+        "en": "day",
+        "emoji": "📖",
+        "originalFile": "img_m22_1.jpg",
+        "scene": "object",
+        "id": "C22S01"
+      },
+      {
+        "es": "luna",
+        "en": "moon",
+        "emoji": "📖",
+        "originalFile": "img_m22_2.jpg",
+        "scene": "object",
+        "id": "C22S02"
+      },
+      {
+        "es": "nube",
+        "en": "cloud",
+        "emoji": "📖",
+        "originalFile": "img_m22_3.jpg",
+        "scene": "object",
+        "id": "C22S03"
+      },
+      {
+        "es": "lluvia",
+        "en": "rain",
+        "emoji": "📖",
+        "originalFile": "img_m22_4.jpg",
+        "scene": "object",
+        "id": "C22S04"
+      },
+      {
+        "es": "nieve",
+        "en": "snow",
+        "emoji": "📖",
+        "originalFile": "img_m22_5.jpg",
+        "scene": "object",
+        "id": "C22S05"
+      },
+      {
+        "es": "viento",
+        "en": "wind",
+        "emoji": "📖",
+        "originalFile": "img_m22_6.jpg",
+        "scene": "object",
+        "id": "C22S06"
+      },
+      {
+        "es": "tormenta",
+        "en": "storm",
+        "emoji": "📖",
+        "originalFile": "img_m22_7.jpg",
+        "scene": "object",
+        "id": "C22S07"
+      },
+      {
+        "es": "arcoiris",
+        "en": "rainbow",
+        "emoji": "📖",
+        "originalFile": "img_m22_8.jpg",
+        "scene": "object",
+        "id": "C22S08"
+      },
+      {
+        "es": "frio",
+        "en": "cold",
+        "emoji": "📖",
+        "originalFile": "img_m22_9.jpg",
+        "scene": "object",
+        "id": "C22S09"
+      },
+      {
+        "es": "calor",
+        "en": "heat",
+        "emoji": "📖",
+        "originalFile": "img_m22_10.jpg",
+        "scene": "object",
+        "id": "C22S10"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Questions & Answers",
+    "icon": "❓",
+    "theme": 2,
+    "stops": [
+      {
+        "es": "escuela",
+        "en": "school",
+        "emoji": "📖",
+        "originalFile": "img_m23_1.jpg",
+        "scene": "object",
+        "id": "C23S01"
+      },
+      {
+        "es": "lapiz",
+        "en": "pencil",
+        "emoji": "📖",
+        "originalFile": "img_m23_2.jpg",
+        "scene": "object",
+        "id": "C23S02"
+      },
+      {
+        "es": "goma",
+        "en": "eraser",
+        "emoji": "📖",
+        "originalFile": "img_m23_3.jpg",
+        "scene": "object",
+        "id": "C23S03"
+      },
+      {
+        "es": "regla",
+        "en": "ruler",
+        "emoji": "📖",
+        "originalFile": "img_m23_4.jpg",
+        "scene": "object",
+        "id": "C23S04"
+      },
+      {
+        "es": "tijeras",
+        "en": "scissors",
+        "emoji": "📖",
+        "originalFile": "img_m23_5.jpg",
+        "scene": "object",
+        "id": "C23S05"
+      },
+      {
+        "es": "pegamento",
+        "en": "glue",
+        "emoji": "📖",
+        "originalFile": "img_m23_6.jpg",
+        "scene": "object",
+        "id": "C23S06"
+      },
+      {
+        "es": "carpeta",
+        "en": "folder",
+        "emoji": "📖",
+        "originalFile": "img_m23_7.jpg",
+        "scene": "object",
+        "id": "C23S07"
+      },
+      {
+        "es": "cuaderno",
+        "en": "notebook",
+        "emoji": "📖",
+        "originalFile": "img_m23_8.jpg",
+        "scene": "object",
+        "id": "C23S08"
+      },
+      {
+        "es": "pizarra",
+        "en": "whiteboard",
+        "emoji": "📖",
+        "originalFile": "img_m23_9.jpg",
+        "scene": "object",
+        "id": "C23S09"
+      },
+      {
+        "es": "estuche",
+        "en": "pencil case",
+        "emoji": "📖",
+        "originalFile": "img_m23_10.jpg",
+        "scene": "object",
+        "id": "C23S10"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Let’s Talk Spanish",
+    "icon": "💬",
+    "theme": 3,
+    "stops": [
+      {
+        "es": "guitarra",
+        "en": "guitar",
+        "emoji": "📖",
+        "originalFile": "img_m24_1.jpg",
+        "scene": "object",
+        "id": "C24S01"
+      },
+      {
+        "es": "tambor",
+        "en": "drum",
+        "emoji": "📖",
+        "originalFile": "img_m24_2.jpg",
+        "scene": "object",
+        "id": "C24S02"
+      },
+      {
+        "es": "piano",
+        "en": "piano",
+        "emoji": "📖",
+        "originalFile": "img_m24_3.jpg",
+        "scene": "object",
+        "id": "C24S03"
+      },
+      {
+        "es": "flauta",
+        "en": "flute",
+        "emoji": "📖",
+        "originalFile": "img_m24_4.jpg",
+        "scene": "object",
+        "id": "C24S04"
+      },
+      {
+        "es": "microfono",
+        "en": "microphone",
+        "emoji": "📖",
+        "originalFile": "img_m24_5.jpg",
+        "scene": "object",
+        "id": "C24S05"
+      },
+      {
+        "es": "pintura",
+        "en": "paint",
+        "emoji": "📖",
+        "originalFile": "img_m24_6.jpg",
+        "scene": "object",
+        "id": "C24S06"
+      },
+      {
+        "es": "pincel",
+        "en": "paintbrush",
+        "emoji": "📖",
+        "originalFile": "img_m24_7.jpg",
+        "scene": "object",
+        "id": "C24S07"
+      },
+      {
+        "es": "lienzo",
+        "en": "canvas",
+        "emoji": "📖",
+        "originalFile": "img_m24_8.jpg",
+        "scene": "object",
+        "id": "C24S08"
+      },
+      {
+        "es": "arcilla",
+        "en": "clay",
+        "emoji": "📖",
+        "originalFile": "img_m24_9.jpg",
+        "scene": "object",
+        "id": "C24S09"
+      },
+      {
+        "es": "teatro",
+        "en": "theater",
+        "emoji": "📖",
+        "originalFile": "img_m24_10.jpg",
+        "scene": "object",
+        "id": "C24S10"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Graduation: Final 10 Words",
+    "icon": "🎓",
+    "theme": 0,
+    "stops": [
+      {
+        "es": "casa",
+        "en": "house",
+        "emoji": "📖",
+        "originalFile": "img_m25_1.jpg",
+        "scene": "object",
+        "id": "C25S01"
+      },
+      {
+        "es": "edificio",
+        "en": "building",
+        "emoji": "📖",
+        "originalFile": "img_m25_2.jpg",
+        "scene": "object",
+        "id": "C25S02"
+      },
+      {
+        "es": "tienda",
+        "en": "store",
+        "emoji": "📖",
+        "originalFile": "img_m25_3.jpg",
+        "scene": "object",
+        "id": "C25S03"
+      },
+      {
+        "es": "hospital",
+        "en": "hospital",
+        "emoji": "📖",
+        "originalFile": "img_m25_4.jpg",
+        "scene": "object",
+        "id": "C25S04"
+      },
+      {
+        "es": "iglesia",
+        "en": "church",
+        "emoji": "📖",
+        "originalFile": "img_m25_5.jpg",
+        "scene": "object",
+        "id": "C25S05"
+      },
+      {
+        "es": "puente",
+        "en": "bridge",
+        "emoji": "📖",
+        "originalFile": "img_m25_6.jpg",
+        "scene": "object",
+        "id": "C25S06"
+      },
+      {
+        "es": "calle",
+        "en": "street",
+        "emoji": "📖",
+        "originalFile": "img_m25_7.jpg",
+        "scene": "object",
+        "id": "C25S07"
+      },
+      {
+        "es": "semaforo",
+        "en": "traffic light",
+        "emoji": "📖",
+        "originalFile": "img_m25_8.jpg",
+        "scene": "object",
+        "id": "C25S08"
+      },
+      {
+        "es": "plaza",
+        "en": "plaza",
+        "emoji": "📖",
+        "originalFile": "img_m25_9.jpg",
+        "scene": "object",
+        "id": "C25S09"
+      },
+      {
+        "es": "estatua",
+        "en": "statue",
+        "emoji": "📖",
+        "originalFile": "img_m25_10.jpg",
+        "scene": "object",
+        "id": "C25S10"
+      }
+    ]
+  }
+]

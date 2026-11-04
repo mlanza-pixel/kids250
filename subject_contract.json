@@ -1,0 +1,702 @@
+[
+  {
+    "mission": 1,
+    "subject": "Greetings & People",
+    "expectedSpanish": [
+      "hola",
+      "adiós",
+      "bienvenido",
+      "saludos",
+      "señor",
+      "señora",
+      "niño",
+      "niña",
+      "bebé",
+      "persona"
+    ],
+    "expectedEnglish": [
+      "hello",
+      "goodbye",
+      "welcome",
+      "greetings",
+      "Mr. / sir",
+      "Mrs. / ma’am",
+      "boy",
+      "girl",
+      "baby",
+      "person"
+    ]
+  },
+  {
+    "mission": 2,
+    "subject": "Kind Words & Helping",
+    "expectedSpanish": [
+      "gracias",
+      "perdón",
+      "permiso",
+      "sí",
+      "no",
+      "ayuda",
+      "favor",
+      "disculpa",
+      "vale",
+      "claro"
+    ],
+    "expectedEnglish": [
+      "thank you",
+      "pardon / sorry",
+      "permission",
+      "yes",
+      "no",
+      "help",
+      "favor",
+      "apology / excuse",
+      "okay",
+      "of course / clear"
+    ]
+  },
+  {
+    "mission": 3,
+    "subject": "My Name & Friends",
+    "expectedSpanish": [
+      "amigo",
+      "amiga",
+      "nombre",
+      "yo",
+      "tú",
+      "él",
+      "ella",
+      "nosotros",
+      "ustedes",
+      "ellos"
+    ],
+    "expectedEnglish": [
+      "male friend",
+      "female friend",
+      "name",
+      "I",
+      "you (one friend)",
+      "he",
+      "she",
+      "we",
+      "you (a group)",
+      "they (male or mixed group)"
+    ]
+  },
+  {
+    "mission": 4,
+    "subject": "My Family",
+    "expectedSpanish": [
+      "mamá",
+      "papá",
+      "hermano",
+      "hermana",
+      "abuelo",
+      "abuela",
+      "tío",
+      "tía",
+      "primo",
+      "prima"
+    ],
+    "expectedEnglish": [
+      "mom",
+      "dad",
+      "brother",
+      "sister",
+      "grandfather",
+      "grandmother",
+      "uncle",
+      "aunt",
+      "male cousin",
+      "female cousin"
+    ]
+  },
+  {
+    "mission": 5,
+    "subject": "My Feelings",
+    "expectedSpanish": [
+      "feliz",
+      "triste",
+      "enojado",
+      "asustado",
+      "cansado",
+      "sorprendido",
+      "tranquilo",
+      "emocionado",
+      "aburrido",
+      "preocupado"
+    ],
+    "expectedEnglish": [
+      "happy",
+      "sad",
+      "angry",
+      "scared",
+      "tired",
+      "surprised",
+      "calm",
+      "excited",
+      "bored",
+      "worried"
+    ]
+  },
+  {
+    "mission": 6,
+    "subject": "Numbers 1–10",
+    "expectedSpanish": [
+      "uno",
+      "dos",
+      "tres",
+      "cuatro",
+      "cinco",
+      "seis",
+      "siete",
+      "ocho",
+      "nueve",
+      "diez"
+    ],
+    "expectedEnglish": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "mission": 7,
+    "subject": "Colors",
+    "expectedSpanish": [
+      "rojo",
+      "azul",
+      "verde",
+      "amarillo",
+      "naranja",
+      "morado",
+      "rosa",
+      "blanco",
+      "negro",
+      "marrón"
+    ],
+    "expectedEnglish": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "orange (color)",
+      "purple",
+      "pink",
+      "white",
+      "black",
+      "brown"
+    ]
+  },
+  {
+    "mission": 8,
+    "subject": "My Body",
+    "expectedSpanish": [
+      "cabeza",
+      "ojo",
+      "oreja",
+      "nariz",
+      "boca",
+      "diente",
+      "mano",
+      "brazo",
+      "pierna",
+      "pie"
+    ],
+    "expectedEnglish": [
+      "head",
+      "eye",
+      "ear",
+      "nose",
+      "mouth",
+      "tooth",
+      "hand",
+      "arm",
+      "leg",
+      "foot"
+    ]
+  },
+  {
+    "mission": 9,
+    "subject": "My Home",
+    "expectedSpanish": [
+      "casa",
+      "puerta",
+      "ventana",
+      "techo",
+      "pared",
+      "suelo",
+      "cama",
+      "mesa",
+      "silla",
+      "sofá"
+    ],
+    "expectedEnglish": [
+      "house",
+      "door",
+      "window",
+      "roof / ceiling",
+      "wall",
+      "floor / ground",
+      "bed",
+      "table",
+      "chair",
+      "sofa"
+    ]
+  },
+  {
+    "mission": 10,
+    "subject": "Food & Drinks",
+    "expectedSpanish": [
+      "leche",
+      "agua",
+      "jugo",
+      "pan",
+      "queso",
+      "huevo",
+      "arroz",
+      "manzana",
+      "sopa",
+      "plátano"
+    ],
+    "expectedEnglish": [
+      "milk",
+      "water",
+      "juice",
+      "bread",
+      "cheese",
+      "egg",
+      "rice",
+      "apple",
+      "soup",
+      "banana"
+    ]
+  },
+  {
+    "mission": 11,
+    "subject": "Clothes",
+    "expectedSpanish": [
+      "camisa",
+      "pantalón",
+      "vestido",
+      "falda",
+      "abrigo",
+      "suéter",
+      "calcetín",
+      "zapato",
+      "gorra",
+      "bufanda"
+    ],
+    "expectedEnglish": [
+      "shirt",
+      "pants",
+      "dress",
+      "skirt",
+      "coat",
+      "sweater",
+      "sock",
+      "shoe",
+      "cap",
+      "scarf"
+    ]
+  },
+  {
+    "mission": 12,
+    "subject": "School & Play",
+    "expectedSpanish": [
+      "escuela",
+      "maestro",
+      "libro",
+      "lápiz",
+      "cuaderno",
+      "mochila",
+      "pelota",
+      "muñeca",
+      "juguete",
+      "juego"
+    ],
+    "expectedEnglish": [
+      "school",
+      "male teacher",
+      "book",
+      "pencil",
+      "notebook",
+      "backpack",
+      "ball",
+      "doll",
+      "toy",
+      "game"
+    ]
+  },
+  {
+    "mission": 13,
+    "subject": "Pets",
+    "expectedSpanish": [
+      "perro",
+      "gato",
+      "pez",
+      "pájaro",
+      "conejo",
+      "hámster",
+      "tortuga",
+      "loro",
+      "cobaya",
+      "cachorro"
+    ],
+    "expectedEnglish": [
+      "dog",
+      "cat",
+      "fish",
+      "bird",
+      "rabbit",
+      "hamster",
+      "turtle",
+      "parrot",
+      "guinea pig",
+      "puppy"
+    ]
+  },
+  {
+    "mission": 14,
+    "subject": "Farm Animals",
+    "expectedSpanish": [
+      "vaca",
+      "cerdo",
+      "oveja",
+      "gallina",
+      "pato",
+      "ganso",
+      "cabra",
+      "burro",
+      "gallo",
+      "caballo"
+    ],
+    "expectedEnglish": [
+      "cow",
+      "pig",
+      "sheep",
+      "hen",
+      "duck",
+      "goose",
+      "goat",
+      "donkey",
+      "rooster",
+      "horse"
+    ]
+  },
+  {
+    "mission": 15,
+    "subject": "Wild Animals",
+    "expectedSpanish": [
+      "león",
+      "tigre",
+      "mono",
+      "elefante",
+      "jirafa",
+      "cebra",
+      "oso",
+      "lobo",
+      "zorro",
+      "panda"
+    ],
+    "expectedEnglish": [
+      "lion",
+      "tiger",
+      "monkey",
+      "elephant",
+      "giraffe",
+      "zebra",
+      "bear",
+      "wolf",
+      "fox",
+      "panda"
+    ]
+  },
+  {
+    "mission": 16,
+    "subject": "Nature",
+    "expectedSpanish": [
+      "árbol",
+      "flor",
+      "hoja",
+      "rama",
+      "bosque",
+      "montaña",
+      "río",
+      "lago",
+      "roca",
+      "mar"
+    ],
+    "expectedEnglish": [
+      "tree",
+      "flower",
+      "leaf",
+      "branch",
+      "forest",
+      "mountain",
+      "river",
+      "lake",
+      "rock",
+      "sea"
+    ]
+  },
+  {
+    "mission": 17,
+    "subject": "Weather",
+    "expectedSpanish": [
+      "sol",
+      "nube",
+      "lluvia",
+      "nieve",
+      "viento",
+      "tormenta",
+      "arcoíris",
+      "frío",
+      "calor",
+      "niebla"
+    ],
+    "expectedEnglish": [
+      "sun",
+      "cloud",
+      "rain",
+      "snow",
+      "wind",
+      "storm",
+      "rainbow",
+      "cold",
+      "heat",
+      "fog"
+    ]
+  },
+  {
+    "mission": 18,
+    "subject": "Getting Around",
+    "expectedSpanish": [
+      "auto",
+      "autobús",
+      "tren",
+      "barco",
+      "avión",
+      "bicicleta",
+      "taxi",
+      "camión",
+      "calle",
+      "puente"
+    ],
+    "expectedEnglish": [
+      "car",
+      "bus",
+      "train",
+      "boat",
+      "airplane",
+      "bicycle",
+      "taxi",
+      "truck",
+      "street",
+      "bridge"
+    ]
+  },
+  {
+    "mission": 19,
+    "subject": "Days & Calendar",
+    "expectedSpanish": [
+      "lunes",
+      "martes",
+      "miércoles",
+      "jueves",
+      "viernes",
+      "sábado",
+      "domingo",
+      "semana",
+      "mes",
+      "año"
+    ],
+    "expectedEnglish": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "week",
+      "month",
+      "year"
+    ]
+  },
+  {
+    "mission": 20,
+    "subject": "Numbers 11–20",
+    "expectedSpanish": [
+      "once",
+      "doce",
+      "trece",
+      "catorce",
+      "quince",
+      "dieciséis",
+      "diecisiete",
+      "dieciocho",
+      "diecinueve",
+      "veinte"
+    ],
+    "expectedEnglish": [
+      "eleven",
+      "twelve",
+      "thirteen",
+      "fourteen",
+      "fifteen",
+      "sixteen",
+      "seventeen",
+      "eighteen",
+      "nineteen",
+      "twenty"
+    ]
+  },
+  {
+    "mission": 21,
+    "subject": "Telling Time",
+    "expectedSpanish": [
+      "hora",
+      "minuto",
+      "segundo",
+      "reloj",
+      "mediodía",
+      "medianoche",
+      "temprano",
+      "tarde",
+      "ahora",
+      "después"
+    ],
+    "expectedEnglish": [
+      "hour / time",
+      "minute",
+      "second",
+      "clock",
+      "noon",
+      "midnight",
+      "early",
+      "late / afternoon",
+      "now",
+      "afterward"
+    ]
+  },
+  {
+    "mission": 22,
+    "subject": "My Daily Routine",
+    "expectedSpanish": [
+      "despertar",
+      "levantarse",
+      "lavarse",
+      "vestirse",
+      "desayunar",
+      "comer",
+      "beber",
+      "jugar",
+      "bañarse",
+      "dormir"
+    ],
+    "expectedEnglish": [
+      "to wake up",
+      "to get up",
+      "to wash oneself",
+      "to get dressed",
+      "to eat breakfast",
+      "to eat",
+      "to drink",
+      "to play",
+      "to bathe",
+      "to sleep"
+    ]
+  },
+  {
+    "mission": 23,
+    "subject": "Questions & Answers",
+    "expectedSpanish": [
+      "qué",
+      "quién",
+      "dónde",
+      "cuándo",
+      "cómo",
+      "cuál",
+      "cuánto",
+      "pregunta",
+      "respuesta",
+      "porque"
+    ],
+    "expectedEnglish": [
+      "what",
+      "who",
+      "where",
+      "when",
+      "how",
+      "which",
+      "how much",
+      "question",
+      "answer",
+      "because"
+    ]
+  },
+  {
+    "mission": 24,
+    "subject": "Let’s Talk Spanish",
+    "expectedSpanish": [
+      "mirar",
+      "escuchar",
+      "hablar",
+      "leer",
+      "escribir",
+      "venir",
+      "ir",
+      "querer",
+      "tener",
+      "ser"
+    ],
+    "expectedEnglish": [
+      "to look",
+      "to listen",
+      "to speak",
+      "to read",
+      "to write",
+      "to come",
+      "to go",
+      "to want / love",
+      "to have",
+      "to be"
+    ]
+  },
+  {
+    "mission": 25,
+    "subject": "Graduation: Around Town",
+    "expectedSpanish": [
+      "edificio",
+      "tienda",
+      "hospital",
+      "parque",
+      "plaza",
+      "semáforo",
+      "biblioteca",
+      "mercado",
+      "piscina",
+      "museo"
+    ],
+    "expectedEnglish": [
+      "building",
+      "store",
+      "hospital",
+      "park",
+      "town square",
+      "traffic light",
+      "library",
+      "market",
+      "swimming pool",
+      "museum"
+    ]
+  }
+]
